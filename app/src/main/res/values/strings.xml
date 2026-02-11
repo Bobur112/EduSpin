@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">EduSpin</string>
+    <string name="password">Parol</string>
+    <string name="login">Kirish</string>
+    <string name="username">Ismingiz</string>
+    <string name="welcome_back">Xush kelibsiz!</string>
+    <string name="login_to_continue">Davom etish uchun kirishni bosing</string>
+
+    <string name="username_cannot_empty">Ismingiz bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="password_cannot_empty">Parol bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="old_password_cannot_be_empty">Eski parol bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="new_password_cannot_be_empty">Yangi parol bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="confirm_new_password_cannot_be_empty">Yangi parolni tasdiqlash bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="password_must_be_same">Parollar bir xil bo"'"lishi kerak</string>
+    <string name="new_password_must_be_different">Yangi parol farqli bo"'"lishi kerak</string>
+    <string name="email_cannot_empty">Email bo"'"sh bo"'"lishi mumkin emas</string>
+    <string name="email_not_valid">Email must be valid</string>
+    <string name="don_t_have_an_account">Profilingiz yo"'"qmi?</string>
+    <string name="sign_up">Ro"'"yxatdan o"'"tish</string>
+    <string name="create_account">Profil yaratish</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="start_quiz">Mavzular bo"'"yicha testlar</string>
+    <string name="rule">O"'"quv materiallari</string>
+    <string name="history">Tarix</string>
+    <string name="menu">Menyu</string>
+    <string name="quiz_option">Fanlardan testlar</string>
+    <string name="foydalanilgan_adabiyotlar">Foydalanilgan adabiyotlar</string>
+    <string name="taklif">Taklif</string>
+    <string name="new_password">Yangi parol</string>
+    <string name="confirm_new_password">Yangi parolni tasdiqlash</string>
+    <string name="old_password">Eski parol</string>
+    <string name="create">Yaratish</string>
+    <string name="save_password">Parolni saqlash</string>
+    <string name="literature">Fizika</string>
+    <string name="geography">Geografiya</string>
+    <string name="math">Matematika</string>
+    <string name="finish">Tamom</string>
+    <string name="next">Keyingisi</string>
+    <string name="enter_answer">Javobni kiritish</string>
+    <string name="final_result">Yakuniy natija</string>
+    <string name="subject">Fan :</string>
+    <string name="correct">To"'"g"'"ri :</string>
+    <string name="incorrect">Noto"'"g"'"ri :</string>
+    <string name="earned">Topildi :</string>
+    <string name="total_questions">Jami savollar :</string>
+    <string name="overall_points">Umumiy ball :</string>
+    <string name="math_quiz">Matematika test</string>
+    <string name="literature_quiz">Fizika test</string>
+    <string name="geography_quiz">Geografiya test</string>
+    <string name="date">Sana :</string>
+    <string name="start_again">Qaytadan boshlash!</string>
+    <string name="qullanma">Qo"'"llanma!</string>
+
+    <string name="rules1_description">
+    Testni boshlashdan oldin qoidalarni diqqat bilan o‘qing.
+</string>
+
+
+</resources>

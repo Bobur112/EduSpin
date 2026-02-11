@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuizForFun">
+
+        <!-- ✅ LAUNCHER faqat bitta bo'ladi -->
+        <activity
+            android:name="com.bobur.quizforphysics.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Login endi launcher emas -->
+        <activity
+            android:name="com.bobur.quizforphysics.MainActivity"
+            android:exported="false"
+            android:theme="@style/splashScreenTheme" />
+
+
+        <activity android:name="com.bobur.quizforphysics.FinalResultActivity" />
+        <activity android:name="com.bobur.quizforphysics.RuleActivity" />
+
+        <activity android:name="com.bobur.quizforphysics.other.PdfActivity" />
+        <activity android:name="com.bobur.quizforphysics.other.TopicsTestActivity" />
+
+        <activity android:name="com.bobur.quizforphysics.test.TestActivity" />
+        <activity android:name="com.bobur.quizforphysics.test.ResultActivity" />
+        <activity android:name="com.bobur.quizforphysics.test.ReviewActivity" />
+
+        <activity android:name="com.bobur.quizforphysics.other.HistoryActivity" />
+
+        <activity android:name=".ReferencesActivity"/>
+        <activity android:name=".SuggestionsActivity"/>
+
+        <activity
+            android:name="com.bobur.quizforphysics.other.VideoListActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".other.TestAnalysisActivity"
+            android:exported="false" />
+
+
+    </application>
+
+</manifest>

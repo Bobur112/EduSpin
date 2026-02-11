@@ -1,0 +1,862 @@
+[
+  {
+    "topicId": 7,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Spintronika faqat elektron zaryadiga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "GMR effekti ferromagnit va nomagnit qatlamlardan tashkil topgan tuzilmalarda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "GMR effekti qattiq disk o‘quv kallaklarida qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "DMS — magnit qo‘shimchalar bilan legirlangan yarimo‘tkazgichdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "GaMnAs suyultirilgan magnit yarimo‘tkazgichga misol bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit diodda spin–zaryad bog‘lanishi mavjud emas.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-voltaik effekt tashqi kuchlanishsiz ham tok hosil qilishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit p–n o‘tishda tok spin yo‘nalishiga bog‘liq emas.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin injeksiyasi yarimo‘tkazgich spintronikasidagi asosiy muammolardan biridir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Schottky to‘siq spin injeksiyasini yomonlashtirishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit bipolyar tranzistor oddiy BJT ga o‘xshash tuzilishga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "MBT da tok kuchaytirish spin yo‘nalishiga bog‘liq bo‘lishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnetoamplifikatsiya faqat mexanik effektlar bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin FET da tok spin pretsessiyasi orqali boshqariladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Datta–Das tranzistori Rashba effektiga asoslangan.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "Rashba effekti faqat magnit maydon mavjud bo‘lganda yuzaga keladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Rashba effekti strukturaviy inversiya assimetriyasi bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin LEDlarda yorug‘lik qutblanishi spin injeksiyasini ko‘rsatadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "PL polarizatsiyasi spin qutblanishni aniqlashda ishlatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "GaN/InGaN tizimida Rashba effekti juda zaif bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Dyakonov–Perel mexanizmi spin-relaksatsiyani ifodalaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Elliott–Yafet mexanizmi impuls sochilishiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin FETlar har doim MOSFETlardan kam quvvat sarflaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Spintronik qurilmalar xotira texnologiyalarida istiqbollidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin filtrlar spin-qutblangan tok hosil qilishda ishlatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Transparent ferromagnitlar yorug‘likni yutmaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "DMSlarda almashinuv doimiysi spin qutblanishga ta’sir qiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Bychkov–Rashba parametri tashqi elektr maydon bilan boshqarilishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin diffuziya uzunligi spin-relaksatsiya vaqti bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 7,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Datta–Das tranzistori hozircha asosan nazariy ahamiyatga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "id": 31,
+    "question": "Spintronikaning asosiy farqi nimada?",
+    "options": [
+      "Elektr maydoni",
+      "Elektron zaryadi",
+      "Elektron spini",
+      "Fononlar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "question": "GMR effekti qaysi tuzilmalarda kuzatiladi?",
+    "options": [
+      "Bir jinsli metallarda",
+      "Ferromagnit/nomagnit ko‘p qatlamlarda",
+      "Dielektriklarda",
+      "Supero‘tkazgichlarda"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 33,
+    "question": "DMS nimani anglatadi?",
+    "options": [
+      "Dielektrik magnit struktura",
+      "Suyultirilgan magnit yarimo‘tkazgich",
+      "Metall qotishma",
+      "Ferromagnit izolyator"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 34,
+    "question": "Magnit diodda qaysi effekt muhim?",
+    "options": [
+      "Joule effekti",
+      "Spin-voltaik effekt",
+      "Hall effekti",
+      "Seebeck effekti"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "question": "Spin-voltaik effekt qachon kuzatiladi?",
+    "options": [
+      "Yuqori haroratda",
+      "Kuchli tokda",
+      "V = 0 bo‘lganda",
+      "Faqat AC tokda"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 36,
+    "question": "Magnit bipolyar tranzistorda kuchaytirish nimaga bog‘liq?",
+    "options": [
+      "Haroratga",
+      "Kuchlanishga",
+      "Spin yo‘nalishiga",
+      "Bosimga"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 37,
+    "question": "MBT da GMA nimani bildiradi?",
+    "options": [
+      "Kichik kuchaytirish",
+      "Gigant magnetoamplifikatsiya",
+      "Optik effekt",
+      "Issiqlik hodisasi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "question": "Spin FET da spin pretsessiyasini nima boshqaradi?",
+    "options": [
+      "Tok kuchi",
+      "Harorat",
+      "Darvoza kuchlanishi",
+      "Bosim"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "question": "Rashba effekti nimadan kelib chiqadi?",
+    "options": [
+      "Magnit domenlardan",
+      "Strukturaviy inversiya assimetriyasidan",
+      "Issiqlikdan",
+      "Fononlardan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "question": "Datta–Das tranzistori nimani boshqaradi?",
+    "options": [
+      "Zaryad zichligini",
+      "Spin pretsessiyasini",
+      "Issiqlik oqimini",
+      "Fonon energiyasini"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 41,
+    "question": "Spin LEDda nima o‘lchanadi?",
+    "options": [
+      "Qarshilik",
+      "PL polarizatsiyasi",
+      "Harorat",
+      "Bosim"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 42,
+    "question": "GaN spin LEDlarining afzalligi nimada?",
+    "options": [
+      "Past harorat",
+      "Xona haroratida ishlashi",
+      "Arzonligi",
+      "Supero‘tkazuvchanligi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "question": "Dyakonov–Perel mexanizmi nimaga bog‘liq?",
+    "options": [
+      "Magnit maydonga",
+      "Elektr maydoniga",
+      "Impuls sochilishiga",
+      "Energiya relaksatsiyasiga"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 44,
+    "question": "Elliott–Yafet mexanizmi qaysi jarayon bilan bog‘liq?",
+    "options": [
+      "Spin-flip va sochilish",
+      "Domen harakati",
+      "Magnit rezonans",
+      "Optik yutilish"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 45,
+    "question": "Spin diffuziya uzunligi nimani bildiradi?",
+    "options": [
+      "Tok masofasi",
+      "Spin saqlanish masofasi",
+      "Elektr maydon kuchi",
+      "Magnitlanish"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 46,
+    "question": "Spin filtrning vazifasi nima?",
+    "options": [
+      "Zaryad filtrlash",
+      "Spin tanlash",
+      "Issiqlik kamaytirish",
+      "Kuchlanish oshirish"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 47,
+    "question": "Datta–Das tranzistorining asosiy muammosi?",
+    "options": [
+      "Material yetishmasligi",
+      "Spin-relaksatsiya",
+      "Yuqori qarshilik",
+      "Issiqlik chiqishi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 48,
+    "question": "Rashba parametri αBR nimaga bog‘liq?",
+    "options": [
+      "Faqat materialga",
+      "Tashqi elektr maydonga",
+      "Haroratga",
+      "Bosimga"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "question": "Spin injeksiyasida eng muhim to‘siq qaysi?",
+    "options": [
+      "Joule issiqligi",
+      "Schottky to‘siq",
+      "Fononlar",
+      "Optik yutilish"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "question": "Spintronik xotiralarning ustunligi nimada?",
+    "options": [
+      "Volatillik",
+      "Nonvolatilelik",
+      "Arzonlik",
+      "Sekinlik"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 51,
+    "question": "Spin-voltaik effekt nimani hosil qiladi?",
+    "options": [
+      "Magnit moment",
+      "EMK",
+      "Issiqlik",
+      "Yorug‘lik"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 52,
+    "question": "Spin FETda parallel magnitlanish nimani bildiradi?",
+    "options": [
+      "Tok yopiq",
+      "Tok maksimal",
+      "Issiqlik katta",
+      "Rezonans"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 53,
+    "question": "Antiparallel magnitlanishda nima yuz beradi?",
+    "options": [
+      "Tok ortadi",
+      "Tok kamayadi",
+      "Issiqlik kamayadi",
+      "Spin yo‘qoladi"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 54,
+    "question": "Transparent ferromagnitlarning asosiy xususiyati?",
+    "options": [
+      "Yorug‘likni so‘ndirish",
+      "Yorug‘lik o‘tkazuvchanlik + ferromagnitlik",
+      "Izolyatorlik",
+      "Supero‘tkazuvchanlik"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 55,
+    "question": "Spin filtrlar qayerda qo‘llanadi?",
+    "options": [
+      "Issiqlik texnikasida",
+      "Spin injeksiyasida",
+      "Akustikada",
+      "Mexanikada"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "question": "MBT da spin-zaryad bog‘lanishi nimani beradi?",
+    "options": [
+      "Izolyatsiya",
+      "Tok kuchaytirish nazorati",
+      "Issiqlik",
+      "Optik effekt"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 57,
+    "question": "Spintronik qurilmalar qaysi sohada istiqbolli?",
+    "options": [
+      "Kvant hisoblash",
+      "Mexanika",
+      "Akustika",
+      "Gidravlika"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 58,
+    "question": "Datta–Das tranzistori qaysi yilda taklif qilingan?",
+    "options": [
+      "1980",
+      "1990",
+      "2000",
+      "2010"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 59,
+    "question": "Spin diffuziya uzunligi qaysi kattalik bilan bog‘liq?",
+    "options": [
+      "χ",
+      "τs",
+      "μ0",
+      "B"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 60,
+    "question": "Spintronika nimaga asoslanadi?",
+    "options": [
+      "Fononlarga",
+      "Elektron spini va zaryadiga",
+      "Issiqlikka",
+      "Bosimga"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 61,
+    "question": "Spintronika elektron ______ dan foydalanadi.",
+    "answer": "spinidan"
+  },
+  {
+    "id": 62,
+    "question": "GMR effekti ______ disk texnologiyalarida qo‘llaniladi.",
+    "answer": "qattiq"
+  },
+  {
+    "id": 63,
+    "question": "DMS — ______ magnit yarimo‘tkazgichdir.",
+    "answer": "suyultirilgan"
+  },
+  {
+    "id": 64,
+    "question": "Magnit diodda spin–______ bog‘lanishi mavjud.",
+    "answer": "zaryad"
+  },
+  {
+    "id": 65,
+    "question": "Spin-voltaik effekt ______ bo‘lmaganda ham tok beradi.",
+    "answer": "kuchlanish"
+  },
+  {
+    "id": 66,
+    "question": "MBT — ______ bipolyar tranzistorning magnit ko‘rinishi.",
+    "answer": "oddiy"
+  },
+  {
+    "id": 67,
+    "question": "Spin FET da Rashba effekti ______ orqali sozlanadi.",
+    "answer": "darvoza"
+  },
+  {
+    "id": 68,
+    "question": "Rashba effekti strukturaviy ______ assimetriyasi bilan bog‘liq.",
+    "answer": "inversiya"
+  },
+  {
+    "id": 69,
+    "question": "Spin LED da PL ______ o‘lchanadi.",
+    "answer": "polarizatsiyasi"
+  },
+  {
+    "id": 70,
+    "question": "Dyakonov–Perel mexanizmi ______ sochilishiga bog‘liq.",
+    "answer": "impuls"
+  },
+  {
+    "id": 71,
+    "question": "Elliott–Yafet mexanizmi ______ flip bilan bog‘liq.",
+    "answer": "spin"
+  },
+  {
+    "id": 72,
+    "question": "Spin diffuziya uzunligi spin ______ ni ifodalaydi.",
+    "answer": "saqlanishini"
+  },
+  {
+    "id": 73,
+    "question": "Transparent ferromagnitlar ______ o‘tkazadi.",
+    "answer": "yorug‘likni"
+  },
+  {
+    "id": 74,
+    "question": "Rashba parametri αBR ______ bilan boshqariladi.",
+    "answer": "elektr maydon"
+  },
+  {
+    "id": 75,
+    "question": "Datta–Das tranzistori spin ______ ni nazorat qiladi.",
+    "answer": "pretsessiyasini"
+  },
+  {
+    "id": 76,
+    "question": "Spin injeksiyasidagi asosiy muammo ______ to‘siqdir.",
+    "answer": "Schottky"
+  },
+  {
+    "id": 77,
+    "question": "Spin FET da antiparallel holatda tok ______ bo‘ladi.",
+    "answer": "kam"
+  },
+  {
+    "id": 78,
+    "question": "Spintronik xotiralar ______ xususiyatga ega.",
+    "answer": "nonvolatile"
+  },
+  {
+    "id": 79,
+    "question": "Spin-voltaik effekt ______ hosil qiladi.",
+    "answer": "EMK"
+  },
+  {
+    "id": 80,
+    "question": "Spintronika kvant ______ uchun muhim.",
+    "answer": "hisoblash"
+  },
+  {
+    "id": 81,
+    "question": "Spintronika nimani o‘rganadi?",
+    "answer": "spin va zaryadga asoslangan transportni"
+  },
+  {
+    "id": 82,
+    "question": "GMR effekti nimani o‘zgartiradi?",
+    "answer": "qarshilikni"
+  },
+  {
+    "id": 83,
+    "question": "DMS ning asosiy afzalligi nimada?",
+    "answer": "spin injeksiyasida"
+  },
+  {
+    "id": 84,
+    "question": "Magnit diodning asosiy xususiyati?",
+    "answer": "spin-zaryad bog‘lanishi"
+  },
+  {
+    "id": 85,
+    "question": "Spin-voltaik effekt nimani hosil qiladi?",
+    "answer": "EMK"
+  },
+  {
+    "id": 86,
+    "question": "MBT oddiy BJT dan nimasi bilan farq qiladi?",
+    "answer": "spin bilan boshqarilishi"
+  },
+  {
+    "id": 87,
+    "question": "Magnetoamplifikatsiya nimani anglatadi?",
+    "answer": "spin orqali kuchaytirishni"
+  },
+  {
+    "id": 88,
+    "question": "Spin FET ning asosiy elementi nima?",
+    "answer": "Rashba effekti"
+  },
+  {
+    "id": 89,
+    "question": "Datta–Das tranzistori nimaga asoslangan?",
+    "answer": "spin pretsessiyasiga"
+  },
+  {
+    "id": 90,
+    "question": "Spin LED nimani ko‘rsatadi?",
+    "answer": "spin injeksiyasini"
+  },
+  {
+    "id": 91,
+    "question": "PL polarizatsiyasi nimani bildiradi?",
+    "answer": "spin qutblanishni"
+  },
+  {
+    "id": 92,
+    "question": "Spin-relaksatsiya nimani kamaytiradi?",
+    "answer": "spin saqlanishini"
+  },
+  {
+    "id": 93,
+    "question": "Dyakonov–Perel mexanizmi qachon kuchli?",
+    "answer": "kuchli sochilishda"
+  },
+  {
+    "id": 94,
+    "question": "Elliott–Yafet mexanizmi qaysi materiallarda muhim?",
+    "answer": "metallarda"
+  },
+  {
+    "id": 95,
+    "question": "Transparent ferromagnitlar qayerda ishlatiladi?",
+    "answer": "optoelektronikada"
+  },
+  {
+    "id": 96,
+    "question": "Spin filtr nimani ajratadi?",
+    "answer": "spin yo‘nalishlarni"
+  },
+  {
+    "id": 97,
+    "question": "Spin diffuziya uzunligi nimaga bog‘liq?",
+    "answer": "spin-relaksatsiya vaqtiga"
+  },
+  {
+    "id": 98,
+    "question": "Datta–Das tranzistorining asosiy cheklovi?",
+    "answer": "spin yo‘qolishi"
+  },
+  {
+    "id": 99,
+    "question": "Spintronik xotiralar nimasi bilan ustun?",
+    "answer": "nonvolatileligi bilan"
+  },
+  {
+    "id": 100,
+    "question": "7-mavzuning asosiy ahamiyati nimada?",
+    "answer": "zamonaviy spintronik qurilmalarni tushuntirishda"
+  }
+]

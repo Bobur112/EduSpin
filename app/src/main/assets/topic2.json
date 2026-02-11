@@ -1,0 +1,878 @@
+[
+  {
+    "topicId": 2,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Diamagnetik moddalarda magnit qabul qiluvchanlik χ manfiy bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "Paramagnetik moddalarda tashqi magnit maydon olib tashlangach magnitlanish saqlanib qoladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferromagnetik moddalarda magnit momentlarning tartibli joylashuvi domenlar orqali tushuntiriladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "Kyuri temperaturasidan yuqorida ferromagnetik modda paramagnetik holatga o‘tadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Diamagnetizm temperaturaga kuchli bog‘liq hodisadir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Paramagnetik moddalarda χ > 0 bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer":"To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Diamagnetizm Lents qonuni bilan izohlanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Paramagnetik moddalarda magnit momentlar tashqi maydonsiz holatda tartibsiz joylashadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferromagnetik moddalarda qoldiq magnitlanish mavjud bo‘lishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Gisterezis hodisasi magnitlanishning qaytmasligini bildiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Kyuri qonuniga ko‘ra magnit qabul qiluvchanlik temperaturaga teskari proporsional.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "Larmor chastotasi elektronning orbital pretsessiyasini tavsiflaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferromagnetizmning asosiy manbai elektronlarning orbital harakatidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "Domenlar faqat ferromagnit moddalarga xos.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Antiferromagnitlarda domen tuzilishi mavjud.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "Kyuri–Veys qonuni χ = C/(T − Tk) ko‘rinishda yoziladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-splitting ferromagnetizmning kvant mexanik sababi hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Stoner modeli izolyatorlar uchun to‘liq mos keladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferritlar yuqori elektr qarshilikka ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "Antiferromagnitlarda umumiy magnit moment nolga teng bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferromagnitlarda magnit singdiruvchanlik doimiy kattalikdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer":  "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Paramagnetizmda magnitlanish faqat tashqi maydon mavjud bo‘lganda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Diamagnetizm barcha moddalarga xos hodisadir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Domen devorlarining siljishi magnitlanishni oshiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Kyuri temperaturasi oshishi bilan domenlar tartibi buziladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Stoner kriteriyasi I·D(EF) < 1 bo‘lsa ferromagnetizm yuzaga keladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer":  "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "Spintronika elektron spiniga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Ferritlar metallarga nisbatan elektrni yomon o‘tkazadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Gisterezis halqasi faqat paramagnetik moddalarda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer":  "Noto‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit maydonlarning manbai elektr zaryadlarning harakatidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 2,
+    "questionId": 31,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Magnit maydonni susaytiruvchi moddalar qanday ataladi?",
+    "options": [
+      "Paramagnit",
+      "Diamagnit",
+      "Ferromagnit",
+      "Ferrit"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 32,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Paramagnetik moddalarda magnitlanishning asosiy sababi nima?",
+    "options": [
+      "Domenlar",
+      "Juftlashmagan elektronlar",
+      "Elektr toki",
+      "Yadro magnit momenti"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 33,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kyuri qonuni qaysi bog‘lanishni ifodalaydi?",
+    "options": [
+      "χ ~ T",
+      "χ ~ 1/T",
+      "χ ~ B",
+      "χ = const"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 34,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Larmor chastotasi formulasi qaysi?",
+    "options": [
+      "ω = eB/me",
+      "ω = eB/2me",
+      "ω = μB·B",
+      "ω = B/T"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 35,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qaysi hodisa diamagnetizmga xos?",
+    "options": [
+      "Domen hosil bo‘lishi",
+      "Qoldiq magnitlanish",
+      "Maydonga qarshi magnit moment",
+      "Spin-splitting"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 36,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ferromagnetizmda domenlarning kattalashishi nimaga olib keladi?",
+    "options": ["Magnitlanish kamayishiga", "Magnitlanish ortishiga", "Paramagnetizmga", "Izolyatsiyaga"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 37,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kyuri temperaturasi nimani bildiradi?",
+    "options": ["Maksimal magnitlanish", "Ferromagnit tartib buziladigan temperatura", "Gisterezis yo‘qolishi", "Spin yo‘nalishi"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 38,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qaysi modda paramagnit?",
+    "options": ["Suv", "Vismut", "Alyuminiy", "Kvars"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 39,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ferritlarning asosiy afzalligi nimada?",
+    "options": ["Past elektr qarshilik", "Yuqori elektr qarshilik", "Metallik o‘tkazuvchanlik", "Supero‘tkazuvchanlik"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 40,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qaysi element ferromagnit hisoblanadi?",
+    "options": ["Mis", "Oltin", "Temir", "Kremniy"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 41,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Stoner modelida ferromagnetizm sharti qaysi?",
+    "options": ["D(EF)/I > 1", "I·D(EF) > 1", "I/D(EF) < 1", "D(EF) = 0"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 42,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-splitting nimani anglatadi?",
+    "options": ["Tok ajralishi", "Spin ↑ va ↓ energiyalarining farqlanishi", "Domen devori", "Elektr qarshilik"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 43,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Fermi energiyasi qaysi statistikaga bo‘ysunadi?",
+    "options": ["Maksvell", "Bose–Eynshteyn", "Fermi–Dirak", "Klassik"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 44,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qaysi hodisa faqat ferromagnitlarga xos?",
+    "options": ["Diamagnetik effekt", "Domenli tuzilish", "Paramagnetizm", "Larmor pretsessiyasi"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 45,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Antiferromagnitlar uchun qaysi temperatura muhim?",
+    "options": ["Kyuri", "Debay", "Neyl", "Fermi"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 46,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spintronika qurilmalari qaysi xossaga asoslanadi?",
+    "options": ["Elektron zaryadi", "Elektron spini", "Issiqlik oqimi", "Tok zichligi"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 47,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Gisterezis halqasi nimani aniqlashga imkon beradi?",
+    "options": ["Elektr qarshilikni", "Qoldiq magnitlanishni", "Tok kuchini", "Issiqlik sig‘imini"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 48,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ferritlar qaysi sohada keng qo‘llanadi?",
+    "options": ["Optik linzalar", "Radiochastota o‘zaklari", "Supero‘tkazgichlar", "Issiqlik dvigatellari"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 49,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Almashinuv energiyasi kuchli bo‘lsa nima sodir bo‘ladi?",
+    "options": ["Spinlar tartibsiz joylashadi", "Spinlar parallel joylashadi", "Magnitlanish yo‘qoladi", "Paramagnetizm kuchayadi"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 50,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Domen devorlari siljishi qaysi jarayonda muhim?",
+    "options": ["Paramagnetizm", "Diamagnetizm", "Ferromagnetizm", "Antiferromagnetizm"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 51,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qaysi kattalik magnit qabul qiluvchanlikni bildiradi?",
+    "options": ["μ", "χ", "B", "H"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 52,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Paramagnetizmda magnit dipollar qanday joylashadi?",
+    "options": ["Parallel", "Antiparallel", "Tartibsiz", "Domenli"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 53,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Gisterezis hodisasi qaysi grafikda namoyon bo‘ladi?",
+    "options": ["B–T", "B–H", "χ–T", "M–T"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 54,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ferromagnit modda qizdirilganda nima sodir bo‘ladi?",
+    "options": ["Domenlar kattalashadi", "Domenlar tartibi buziladi", "Magnitlanish ortadi", "Spin ajralishi kuchayadi"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 55,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Stoner modeli nimani tushuntiradi?",
+    "options": ["Domen hosil bo‘lishini", "Metall ferromagnetizmini", "Gisterezis halqasini", "Diamagnetizmni"],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 2,
+    "questionId": 56,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin ↑ va spin ↓ elektronlar soni teng bo‘lmasa modda qanday bo‘ladi?",
+    "options": ["Diamagnit", "Paramagnit", "Ferromagnit", "Izolyator"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 57,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ferritlarning elektr qarshiligi metallarnikiga nisbatan qanday?",
+    "options": ["Kichik", "Teng", "Juda katta", "Nolga teng"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 58,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Antiferromagnitlarda magnit momentlar qanday joylashadi?",
+    "options": ["Parallel", "Tartibsiz", "Antiparallel va teng", "Domenli"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 59,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kyuri–Veys qonunida maxrajda qaysi ifoda mavjud?",
+    "options": ["T", "T²", "(T − Tk)", "(T + Tk)"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 2,
+    "questionId": 60,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spintronika qaysi texnologiyalarda qo‘llanadi?",
+    "options": ["MRAM", "GMR", "Spin klapanlar", "Barchasi"],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 2,
+    "questionId": 61,
+    "type": "FILL_BLANK",
+    "questionText": "Diamagnetik moddalarda χ ______ bo‘ladi.",
+    "correctTexts": ["manfiy"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 62,
+    "type": "FILL_BLANK",
+    "questionText": "Paramagnetizm Kyuri qonuniga ko‘ra ______ ga teskari proporsional.",
+    "correctTexts": ["temperatura"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 63,
+    "type": "FILL_BLANK",
+    "questionText": "Ferromagnetik moddalarda magnitlanish ______ orqali tushuntiriladi.",
+    "correctTexts": ["domenlar"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 64,
+    "type": "FILL_BLANK",
+    "questionText": "Magnitlanish yo‘qoladigan kritik temperatura ______ deyiladi.",
+    "correctTexts": ["Kyuri temperaturasi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 65,
+    "type": "FILL_BLANK",
+    "questionText": "Antiferromagnit tartib buziladigan temperatura ______ deb ataladi.",
+    "correctTexts": ["Neyl temperaturasi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 66,
+    "type": "FILL_BLANK",
+    "questionText": "Spin ↑ va spin ↓ energiyalarining farqi ______ deb ataladi.",
+    "correctTexts": ["spin-ajralish"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 67,
+    "type": "FILL_BLANK",
+    "questionText": "Stoner kriteriyasi ______ · ______ > 1 ko‘rinishida yoziladi.",
+    "correctTexts": ["I", "D(EF)"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 68,
+    "type": "FILL_BLANK",
+    "questionText": "Elektronlarning statistik taqsimoti ______ statistikaga bo‘ysunadi.",
+    "correctTexts": ["Fermi–Dirak"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 69,
+    "type": "FILL_BLANK",
+    "questionText": "Gisterezis halqasida nol tokda saqlanib qolgan magnitlanish ______ deyiladi.",
+    "correctTexts": ["qoldiq magnitlanish"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 70,
+    "type": "FILL_BLANK",
+    "questionText": "Ferromagnetik materiallarda magnit singdiruvchanlik ______ ga bog‘liq.",
+    "correctTexts": ["tashqi maydonga"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 71,
+    "type": "FILL_BLANK",
+    "questionText": "Domen devorlari siljishi magnitlanishni ______ .",
+    "correctTexts": ["oshiradi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 72,
+    "type": "FILL_BLANK",
+    "questionText": "Ferritlar elektr jihatdan ______ materiallardir.",
+    "correctTexts": ["yomon o‘tkazuvchi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 73,
+    "type": "FILL_BLANK",
+    "questionText": "Paramagnetik moddalarda magnit dipollar tashqi maydon bo‘ylab ______ .",
+    "correctTexts": ["yo‘naladi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 74,
+    "type": "FILL_BLANK",
+    "questionText": "Diamagnetizm elektron orbital harakati bilan bog‘liq ______ hodisadir.",
+    "correctTexts": ["induksion"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 75,
+    "type": "FILL_BLANK",
+    "questionText": "Magnit maydon chiziqlari doimo ______ bo‘ladi.",
+    "correctTexts": ["yopiq"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 76,
+    "type": "FILL_BLANK",
+    "questionText": "Almashinuv energiyasi kuchli bo‘lsa spinlar ______ joylashadi.",
+    "correctTexts": ["parallel"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 77,
+    "type": "FILL_BLANK",
+    "questionText": "Stoner modeli metallarning ______ ferromagnetizmini tushuntiradi.",
+    "correctTexts": ["kvant"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 78,
+    "type": "FILL_BLANK",
+    "questionText": "Ferritlardan ______ va ______ o‘zaklar tayyorlanadi.",
+    "correctTexts": ["antenna", "radiochastotali"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 79,
+    "type": "FILL_BLANK",
+    "questionText": "Spintronika elektronning ______ xossasiga asoslanadi.",
+    "correctTexts": ["spin"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 80,
+    "type": "FILL_BLANK",
+    "questionText": "Ferromagnetizmning asosiy manbai elektronlarning ______ harakatidir.",
+    "correctTexts": ["spin"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 81,
+    "type": "SHORT_ANSWER",
+    "questionText": "Diamagnetizm nimaga bog‘liq?",
+    "correctTexts": ["elektron orbital harakatiga"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 82,
+    "type": "SHORT_ANSWER",
+    "questionText": "Paramagnetizmning asosiy sababi nima?",
+    "correctTexts": ["juftlashmagan elektronlar"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 83,
+    "type": "SHORT_ANSWER",
+    "questionText": "Domen nima?",
+    "correctTexts": ["magnit momentlari bir yo‘nalgan soha"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 84,
+    "type": "SHORT_ANSWER",
+    "questionText": "Gisterezis nimani bildiradi?",
+    "correctTexts": ["magnitlanishning qaytmasligini"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 85,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kyuri temperaturasi nimani aniqlaydi?",
+    "correctTexts": ["ferromagnit tartib buzilishini"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 86,
+    "type": "SHORT_ANSWER",
+    "questionText": "Antiferromagnitlarda umumiy magnit moment nega nol?",
+    "correctTexts": ["momentlar teng va antiparallel bo‘lgani uchun"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 87,
+    "type": "SHORT_ANSWER",
+    "questionText": "Ferritlar nimasi bilan metallardan farq qiladi?",
+    "correctTexts": ["yuqori elektr qarshiligi bilan"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 88,
+    "type": "SHORT_ANSWER",
+    "questionText": "Stoner modelining asosiy g‘oyasi nima?",
+    "correctTexts": ["spin energiyalarining ajralishi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 89,
+    "type": "SHORT_ANSWER",
+    "questionText": "Holatlar zichligi D(EF) nimani bildiradi?",
+    "correctTexts": ["Fermi sathidagi holatlar sonini"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 90,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin-splitting nimaga olib keladi?",
+    "correctTexts": ["ferromagnetik holatga"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 91,
+    "type": "SHORT_ANSWER",
+    "questionText": "Almashinuv energiyasi nima bilan bog‘liq?",
+    "correctTexts": ["spinlar o‘zaro ta’siri bilan"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 92,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spintronika qaysi sohada muhim?",
+    "correctTexts": ["xotira va kvant texnologiyalarida"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 93,
+    "type": "SHORT_ANSWER",
+    "questionText": "Ferritlar qaysi tur material?",
+    "correctTexts": ["magnit yarimo‘tkazgich"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 94,
+    "type": "SHORT_ANSWER",
+    "questionText": "Magnit singdiruvchanlik nimani ko‘rsatadi?",
+    "correctTexts": ["maydonni kuchaytirish darajasini"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 95,
+    "type": "SHORT_ANSWER",
+    "questionText": "Paramagnetik modda maydonsiz holatda qanday?",
+    "correctTexts": ["magnitsiz"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 96,
+    "type": "SHORT_ANSWER",
+    "questionText": "Domen devori nima?",
+    "correctTexts": ["domenlar orasidagi chegara"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 97,
+    "type": "SHORT_ANSWER",
+    "questionText": "Gisterezis halqasining maydoni nimani bildiradi?",
+    "correctTexts": ["energiya yo‘qotilishini"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 98,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kyuri–Veys qonuni qaysi moddalarga tatbiq etiladi?",
+    "correctTexts": ["ferromagnit va paramagnitlarga"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 99,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin qutblanish nima?",
+    "correctTexts": ["spinlar sonining teng bo‘lmasligi"]
+  },
+  {
+    "topicId": 2,
+    "questionId": 100,
+    "type": "SHORT_ANSWER",
+    "questionText": "Stoner modeli nimaning nazariy asosi?",
+    "correctTexts": ["metall ferromagnetizmi"]
+  }
+]
+

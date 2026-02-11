@@ -1,0 +1,1002 @@
+[
+  {
+    "topicId": 10,
+    "id": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Kubit klassik bitdan farqli ravishda superpozitsiya holatida bo‘lishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "Klassik kompyuterning M ta tranzistori kvant kompyuterda M ta kubitga teng.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "Kvant kompyuter klassik kompyuterdan ustun bo‘lishi uchun N > log₂M bo‘lishi kerak.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "15 kubitli kvant kompyuter klassik shaxsiy kompyuterdan ustun hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Masshtablanuvchanlik kvant protsessorlar uchun muhim mezondir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Loss–DiVincenzo modeli spin-kubitlarni taklif qilgan.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-kubit elektronning fazoviy holatiga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Zaryad kubiti elektronning fazoviy joylashuviga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-kubitlar tez boshqariladi va tez dekoherensiyaga uchraydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Zaryad kubitlari tez boshqariladi, ammo tez dekoherensiyaga uchraydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Kvant nuqtalar elektrostatik eshiklar yordamida boshqariladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "GaAs va Si kvant nuqtalari bir xil material guruhiga kiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "Si/SiGe geterotuzilmalarda deformatsiya muhim rol o‘ynaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "Deformatsiya o‘tkazuvchanlik zonasi degeneratsiyasini kamaytiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "2DEG faqat metallarda hosil bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "GaAs/AlGaAs da 2DEG modulyatsion legirlash orqali hosil bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Kvant nuqtada bitta elektronni tutish mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Kvant nuqtali kubitlar klassik elektronika bilan integratsiyalanmaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit sensorlar tashqi magnit maydonga sezgir asboblardir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "Barcha magnitometrlar vektor kattalikni o‘lchaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Skalyar magnitometr magnit maydonning umumiy kattaligini o‘lchaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Vektor magnitometrlar mexanik tebranishlarga sezgir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "SQUID eng sezgir magnit sensorlardan biridir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Qidiruv g‘altakli magnitometr Faradey induksiyasiga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Qidiruv g‘altakli magnitometr doimiy magnit maydonni o‘lchay olmaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Rezonans kontur usulida LC-kontur ishlatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "GMR va TMR effektlari magnit sensorlarda qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "MEMS magnit sensorlar mikromexanik tuzilmalarga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit datchiklar faqat laboratoriya sharoitida ishlatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit sensorlar kvant texnologiyalarining ajralmas qismidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 10,
+    "id": 31,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kubit nechta holatga ega bo‘lishi mumkin?",
+    "options": [
+      "1",
+      "2",
+      "Superpozitsiya",
+      "Cheksiz"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 32,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-kubit qaysi fizik kattalikka asoslanadi?",
+    "options": [
+      "Zaryad",
+      "Spin",
+      "Fonon",
+      "Foton"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 33,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Zaryad kubit nimaga asoslanadi?",
+    "options": [
+      "Elektron spini",
+      "Elektron impulsi",
+      "Elektron joylashuvi",
+      "Magnit moment"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 34,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Loss–DiVincenzo modeli qaysi tizimni taklif qilgan?",
+    "options": [
+      "Ion tuzoqlari",
+      "Supero‘tkazgich",
+      "Kvant nuqtali spin-kubit",
+      "Foton kubiti"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 35,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Si/SiGe geterotuzilmada deformatsiya nimani buzadi?",
+    "options": [
+      "Issiqlik balansini",
+      "Kristall simmetriyani",
+      "Elektr neytrallikni",
+      "Zaryad saqlanishini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 36,
+    "type": "SINGLE_CHOICE",
+    "questionText": "2DEG nimani anglatadi?",
+    "options": [
+      "Ikki o‘lchovli fonon gazi",
+      "Ikki o‘lchovli elektron gazi",
+      "Ikki o‘lchovli spin gazi",
+      "Ikki o‘lchovli atom qatlami"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 37,
+    "type": "SINGLE_CHOICE",
+    "questionText": "GaAs/AlGaAs da elektronlar qayerda lokalizatsiyalanadi?",
+    "options": [
+      "AlGaAs ichida",
+      "GaAs ichida",
+      "Metall elektrodда",
+      "Havoda"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 38,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kvant nuqtani hosil qilish uchun nima ishlatiladi?",
+    "options": [
+      "Mexanik bosim",
+      "Elektrostatik eshiklar",
+      "Lazer nuri",
+      "Issiqlik"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 39,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-kubitning asosiy afzalligi nima?",
+    "options": [
+      "Tez boshqarish",
+      "Sekin dekoherensiya",
+      "Arzonlik",
+      "Oson ishlab chiqarish"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 40,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Zaryad kubitning asosiy kamchiligi nima?",
+    "options": [
+      "Sekin ishlashi",
+      "Tez dekoherensiya",
+      "Murakkab o‘lchov",
+      "Spin talab qilishi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 41,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Modulyatsion legirlashning vazifasi nima?",
+    "options": [
+      "Izolyatsiya",
+      "Elektronlarni hosil qilish",
+      "Magnitlanish",
+      "Issiqlik tarqatish"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 42,
+    "type": "SINGLE_CHOICE",
+    "questionText": "SQUID nimaga asoslanadi?",
+    "options": [
+      "Xoll effektiga",
+      "Kvant interferensiyasiga",
+      "Magnitorezistiv effektga",
+      "Induksiya tokiga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 43,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Skalyar magnitometr nimani o‘lchaydi?",
+    "options": [
+      "Bx, By, Bz",
+      "Magnit moment",
+      "|B|",
+      "Magnit oqim"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 44,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Vektor magnitometrning asosiy kamchiligi nima?",
+    "options": [
+      "Past sezgirlik",
+      "Harakatga sezgirlik",
+      "Arzon emasligi",
+      "Katta o‘lcham"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 45,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qidiruv g‘altakli magnitometr qaysi qonunga asoslanadi?",
+    "options": [
+      "Lorens kuchi",
+      "Om qonuni",
+      "Faradey induksiyasi",
+      "Kulon qonuni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 46,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qidiruv g‘altakli magnitometr qaysi maydonlarni yaxshi o‘lchaydi?",
+    "options": [
+      "Doimiy",
+      "O‘zgaruvchan",
+      "Kvant",
+      "Statik"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 47,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Rezonans kontur usulida nima o‘zgaradi?",
+    "options": [
+      "Tok",
+      "Qarshilik",
+      "Rezonans chastota",
+      "Kuchlanish manbai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 48,
+    "type": "SINGLE_CHOICE",
+    "questionText": "GMR sensorlar nimaga asoslanadi?",
+    "options": [
+      "Induksiya",
+      "Magnitorezistiv effekt",
+      "Optik effekt",
+      "Termoelektrik effekt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 49,
+    "type": "SINGLE_CHOICE",
+    "questionText": "MEMS magnit sensorlar nimani birlashtiradi?",
+    "options": [
+      "Optika va mexanika",
+      "Elektronika va mexanika",
+      "Kimyo va fizika",
+      "Kvant va klassika"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 50,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Magnit sensorlar qaysi sohada ishlatilmaydi?",
+    "options": [
+      "Aviatsiya",
+      "Avtomobilsozlik",
+      "Tibbiyot",
+      "Yadro sintezi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 10,
+    "id": 51,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Yer magnit maydoni taxminan nechchi nT?",
+    "options": [
+      "10 nT",
+      "100 nT",
+      "50 000 nT",
+      "1 nT"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 52,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Geomagnit shovqin qaysi tipga kiradi?",
+    "options": [
+      "Oqartirilgan",
+      "1/f",
+      "Kvant",
+      "Impulsli"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 53,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Skalyar magnitometr qachon ustun?",
+    "options": [
+      "Harakatsiz holatda",
+      "Harakatlanuvchi tizimda",
+      "Laboratoriyada",
+      "Faqat vakuumda"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 54,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Induktiv g‘altakli sensorlarda ferrit yadro nimani oshiradi?",
+    "options": [
+      "Qarshilikni",
+      "Magnit oqimni",
+      "Sig‘imni",
+      "Haroratni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 55,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qidiruv g‘altak sezgirligi nimaga bog‘liq emas?",
+    "options": [
+      "O‘ramlar soniga",
+      "Yadro materialiga",
+      "Gravitatsiyaga",
+      "Magnit oqim tezligiga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 10,
+    "id": 56,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Aktiv qidiruv g‘altak qaysi sensorlarda ishlatiladi?",
+    "options": [
+      "Optik",
+      "Yaqinlik",
+      "Kimyoviy",
+      "Termal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 57,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Rezonans usuli yana qanday nomlanadi?",
+    "options": [
+      "Eddy-killed oscillator",
+      "Spin-valve",
+      "SQUID",
+      "Fluxgate"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": 10,
+    "id": 58,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Single-coil usulning kamchiligi nima?",
+    "options": [
+      "Katta o‘lcham",
+      "Murakkab kompensatsiya",
+      "Past sezgirlik",
+      "Tez eskirish"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 59,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Magnit datchiklarning asosiy afzalligi nima?",
+    "options": [
+      "Qimmatligi",
+      "Ishonchliligi",
+      "Murakkabligi",
+      "Past tezlik"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 60,
+    "type": "SINGLE_CHOICE",
+    "questionText": "10-mavzuning asosiy g‘oyasi nima?",
+    "options": [
+      "Optik sensorlar",
+      "Kvant kubitlar va magnit sezish",
+      "Issiqlik mashinalari",
+      "Akustik tizimlar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 10,
+    "id": 61,
+    "type": "FILL_BLANK",
+    "questionText": "Kubit ______ holatida bo‘lishi mumkin.",
+    "correctAnswer": "superpozitsiya"
+  },
+  {
+    "topicId": 10,
+    "id": 62,
+    "type": "FILL_BLANK",
+    "questionText": "Spin-kubit elektronning ______ xususiyatiga asoslanadi.",
+    "correctAnswer": "spini"
+  },
+  {
+    "topicId": 10,
+    "id": 63,
+    "type": "FILL_BLANK",
+    "questionText": "Zaryad kubiti elektronning ______ ga bog‘liq.",
+    "correctAnswer": "joylashuviga"
+  },
+  {
+    "topicId": 10,
+    "id": 64,
+    "type": "FILL_BLANK",
+    "questionText": "2DEG — ikki o‘lchovli ______ gazidir.",
+    "correctAnswer": "elektron"
+  },
+  {
+    "topicId": 10,
+    "id": 65,
+    "type": "FILL_BLANK",
+    "questionText": "Si/SiGe tizimida deformatsiya o‘tkazuvchanlik zonasi ______ ni kamaytiradi.",
+    "correctAnswer": "degeneratsiyasini"
+  },
+  {
+    "topicId": 10,
+    "id": 66,
+    "type": "FILL_BLANK",
+    "questionText": "Modulyatsion legirlash elektronlarni ______ uchun ishlatiladi.",
+    "correctAnswer": "hosil qilish"
+  },
+  {
+    "topicId": 10,
+    "id": 67,
+    "type": "FILL_BLANK",
+    "questionText": "Kvant nuqtada elektron ______ eshiklar bilan chegaralanadi.",
+    "correctAnswer": "elektrostatik"
+  },
+  {
+    "topicId": 10,
+    "id": 68,
+    "type": "FILL_BLANK",
+    "questionText": "SQUID — supero‘tkazgich ______ qurilmasidir.",
+    "correctAnswer": "kvant interferensiya"
+  },
+  {
+    "topicId": 10,
+    "id": 69,
+    "type": "FILL_BLANK",
+    "questionText": "Skalyar magnitometr magnit maydonning ______ ni o‘lchaydi.",
+    "correctAnswer": "kattaligini"
+  },
+  {
+    "topicId": 10,
+    "id": 70,
+    "type": "FILL_BLANK",
+    "questionText": "Vektor magnitometr magnit maydonning ______ komponentlarini o‘lchaydi.",
+    "correctAnswer": "yo‘nalish"
+  },
+  {
+    "topicId": 10,
+    "id": 71,
+    "type": "FILL_BLANK",
+    "questionText": "Qidiruv g‘altakli magnitometr ______ induksiyasiga asoslanadi.",
+    "correctAnswer": "Faradey"
+  },
+  {
+    "topicId": 10,
+    "id": 72,
+    "type": "FILL_BLANK",
+    "questionText": "Rezonans kontur usulida LC ______ ishlatiladi.",
+    "correctAnswer": "zanjiri"
+  },
+  {
+    "topicId": 10,
+    "id": 73,
+    "type": "FILL_BLANK",
+    "questionText": "GMR — gigant ______ effektidir.",
+    "correctAnswer": "magnitorezistiv"
+  },
+  {
+    "topicId": 10,
+    "id": 74,
+    "type": "FILL_BLANK",
+    "questionText": "MEMS — mikroelektromexanik ______.",
+    "correctAnswer": "tizimlar"
+  },
+  {
+    "topicId": 10,
+    "id": 75,
+    "type": "FILL_BLANK",
+    "questionText": "Geomagnit shovqin odatda ______ tipga ega.",
+    "correctAnswer": "1/f"
+  },
+  {
+    "topicId": 10,
+    "id": 76,
+    "type": "FILL_BLANK",
+    "questionText": "Ferrit yadro magnit ______ ni kuchaytiradi.",
+    "correctAnswer": "oqimni"
+  },
+  {
+    "topicId": 10,
+    "id": 77,
+    "type": "FILL_BLANK",
+    "questionText": "Aktiv qidiruv g‘altaklar asosan ______ sensorlarda ishlatiladi.",
+    "correctAnswer": "yaqinlik"
+  },
+  {
+    "topicId": 10,
+    "id": 78,
+    "type": "FILL_BLANK",
+    "questionText": "SQUID magnit sezgirligi ______ darajagacha yetadi.",
+    "correctAnswer": "femtoTesla"
+  },
+  {
+    "topicId": 10,
+    "id": 79,
+    "type": "FILL_BLANK",
+    "questionText": "Kvant nuqtali kubitlar ______ bilan integratsiyalanadi.",
+    "correctAnswer": "klassik elektronika"
+  },
+  {
+    "topicId": 10,
+    "id": 80,
+    "type": "FILL_BLANK",
+    "questionText": "Magnit sensorlar ______ texnologiyalarda keng qo‘llaniladi.",
+    "correctAnswer": "zamonaviy"
+  },
+  {
+    "topicId": 10,
+    "id": 81,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kubit nima?",
+    "correctAnswer": "ikki holatli kvant tizim"
+  },
+  {
+    "topicId": 10,
+    "id": 82,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin-kubitning asosiy ustunligi nimada?",
+    "correctAnswer": "uzoq dekoherensiya vaqti"
+  },
+  {
+    "topicId": 10,
+    "id": 83,
+    "type": "SHORT_ANSWER",
+    "questionText": "Zaryad kubit nimasi bilan tez?",
+    "correctAnswer": "elektr maydon bilan boshqariladi"
+  },
+  {
+    "topicId": 10,
+    "id": 84,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kvant nuqta nima?",
+    "correctAnswer": "elektron fazoviy chegaralangan tizim"
+  },
+  {
+    "topicId": 10,
+    "id": 85,
+    "type": "SHORT_ANSWER",
+    "questionText": "Loss–DiVincenzo modeli nimani taklif qiladi?",
+    "correctAnswer": "spin-kubitlardan foydalanishni"
+  },
+  {
+    "topicId": 10,
+    "id": 86,
+    "type": "SHORT_ANSWER",
+    "questionText": "2DEG qayerda hosil bo‘ladi?",
+    "correctAnswer": "geterotuzilma interfeysida"
+  },
+  {
+    "topicId": 10,
+    "id": 87,
+    "type": "SHORT_ANSWER",
+    "questionText": "Deformatsiya nima uchun kerak?",
+    "correctAnswer": "zona degeneratsiyasini yo‘qotish uchun"
+  },
+  {
+    "topicId": 10,
+    "id": 88,
+    "type": "SHORT_ANSWER",
+    "questionText": "Modulyatsion legirlash nimani kamaytiradi?",
+    "correctAnswer": "sochilishni"
+  },
+  {
+    "topicId": 10,
+    "id": 89,
+    "type": "SHORT_ANSWER",
+    "questionText": "SQUID nimasi bilan noyob?",
+    "correctAnswer": "juda yuqori sezgirligi bilan"
+  },
+  {
+    "topicId": 10,
+    "id": 90,
+    "type": "SHORT_ANSWER",
+    "questionText": "Skalyar magnitometr qachon qulay?",
+    "correctAnswer": "harakatlanuvchi platformalarda"
+  },
+  {
+    "topicId": 10,
+    "id": 91,
+    "type": "SHORT_ANSWER",
+    "questionText": "Vektor magnitometr nimani beradi?",
+    "correctAnswer": "maydon yo‘nalishini"
+  },
+  {
+    "topicId": 10,
+    "id": 92,
+    "type": "SHORT_ANSWER",
+    "questionText": "Qidiruv g‘altakli magnitometr nimani o‘lchaydi?",
+    "correctAnswer": "o‘zgaruvchan magnit maydonni"
+  },
+  {
+    "topicId": 10,
+    "id": 93,
+    "type": "SHORT_ANSWER",
+    "questionText": "Rezonans usulda metall obyekt nimani o‘zgartiradi?",
+    "correctAnswer": "induktivlikni"
+  },
+  {
+    "topicId": 10,
+    "id": 94,
+    "type": "SHORT_ANSWER",
+    "questionText": "GMR sensorlar qayerda keng ishlatiladi?",
+    "correctAnswer": "xotira va datchiklarda"
+  },
+  {
+    "topicId": 10,
+    "id": 95,
+    "type": "SHORT_ANSWER",
+    "questionText": "MEMS sensorlar nimasi bilan qulay?",
+    "correctAnswer": "kichik o‘lcham va kam quvvat"
+  },
+  {
+    "topicId": 10,
+    "id": 96,
+    "type": "SHORT_ANSWER",
+    "questionText": "Magnit sensorlarning asosiy vazifasi nima?",
+    "correctAnswer": "magnit maydonni aniqlash"
+  },
+  {
+    "topicId": 10,
+    "id": 97,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kvant nuqtali kubitlar nimaga istiqbolli?",
+    "correctAnswer": "masshtablanuvchanligi sababli"
+  },
+  {
+    "topicId": 10,
+    "id": 98,
+    "type": "SHORT_ANSWER",
+    "questionText": "Si asosidagi kubitlarning ustunligi nimada?",
+    "correctAnswer": "kam yadro spinlari"
+  },
+  {
+    "topicId": 10,
+    "id": 99,
+    "type": "SHORT_ANSWER",
+    "questionText": "SQUID qaysi materiallarga asoslanadi?",
+    "correctAnswer": "supero‘tkazgichlarga"
+  },
+  {
+    "topicId": 10,
+    "id": 100,
+    "type": "SHORT_ANSWER",
+    "questionText": "10-mavzuning umumiy ahamiyati nimada?",
+    "correctAnswer": "kvant hisoblash va magnit sezish texnologiyalarini birlashtirishda"
+  }
+]

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".test.TestActivity">
+
+    <ScrollView
+        android:id="@+id/scrollViewTest"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:background="@android:color/white">
+
+            <!-- Mavzu nomi -->
+            <TextView
+                android:id="@+id/tvTopicName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mavzu nomi"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:layout_marginBottom="10dp" />
+
+            <!-- Savol matni -->
+            <TextView
+                android:id="@+id/tvQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Savol matni"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginBottom="12dp" />
+
+            <!-- TRUE/FALSE -->
+            <LinearLayout
+                android:id="@+id/layoutTF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <RadioGroup
+                    android:id="@+id/radioGroupTF"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/rbTF1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="To‘g‘ri"
+                        android:textColor="@android:color/black"/>
+
+                    <RadioButton
+                        android:id="@+id/rbTF2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Noto‘g‘ri"
+                        android:textColor="@android:color/black"/>
+                </RadioGroup>
+            </LinearLayout>
+
+            <!-- SINGLE CHOICE -->
+            <LinearLayout
+                android:id="@+id/layoutSingle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <RadioGroup
+                    android:id="@+id/radioGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/rb1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+
+                    <RadioButton
+                        android:id="@+id/rb2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+
+                    <RadioButton
+                        android:id="@+id/rb3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+
+                    <RadioButton
+                        android:id="@+id/rb4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/black"/>
+                </RadioGroup>
+            </LinearLayout>
+
+            <!-- MULTIPLE CHOICE -->
+            <LinearLayout
+                android:id="@+id/layoutMulti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <CheckBox
+                    android:id="@+id/cb1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <CheckBox
+                    android:id="@+id/cb2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <CheckBox
+                    android:id="@+id/cb3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <CheckBox
+                    android:id="@+id/cb4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <!-- FILL BLANK -->
+            <LinearLayout
+                android:id="@+id/layoutFill"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <EditText
+                    android:id="@+id/etAnswer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Javobni kiriting"
+                    android:inputType="text"
+                    android:textColor="@android:color/black"
+                    android:layout_marginTop="10dp" />
+            </LinearLayout>
+
+            <!-- MATCHING -->
+            <LinearLayout
+                android:id="@+id/layoutMatch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/tvMatchQuestion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Moslashtirish jadvali"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:layout_marginBottom="8dp" />
+
+                <EditText
+                    android:id="@+id/etMatch1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="1 → ? (A/B/C)"
+                    android:inputType="text" />
+
+                <EditText
+                    android:id="@+id/etMatch2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="2 → ? (A/B/C)"
+                    android:inputType="text" />
+
+                <EditText
+                    android:id="@+id/etMatch3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="3 → ? (A/B/C)"
+                    android:inputType="text" />
+            </LinearLayout>
+
+            <!-- Next button -->
+            <Button
+                android:id="@+id/btnNext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Keyingi"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@android:color/holo_purple"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

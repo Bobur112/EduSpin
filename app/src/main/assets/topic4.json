@@ -1,0 +1,1002 @@
+[
+  {
+    "topicId": 4,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Spinni yarimo‘tkazgichlarga kiritish spintronika qurilmalari uchun muhimdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "GaAs yarimo‘tkazgichida elektron spinini yuqori samaradorlik bilan kiritish mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "Fe/GaAs geterotuzilmasi spin kirgizishda keng qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin kirgizish faqat optik usul bilan amalga oshiriladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Kerr aylanish burchagi elektron spinning optik signali hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle effekti spin pretsessiyasiga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin relaksatsiyasi spin yo‘nalishining saqlanib qolishidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin relaksatsiya vaqti odatda T₁ bilan belgilanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "O‘tkazuvchanlik nomutanosibligi spin kirgizishga to‘sqinlik qiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Shottki to‘siqlari spin kirgizish samaradorligini oshirishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin akkumulatsiyasi — bu spinlarning lokal yig‘ilishidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "Drenaj elektrod yaqinida spin yig‘ilishi kuzatilishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "Elliott–Yafet mexanizmi spin–orbita bog‘lanishiga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "Elliott–Yafet mexanizmi faqat inversiya simmetriyasi yo‘q tizimlarda ishlaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Dyakonov–Perel mexanizmi inversiya simmetriyasi yo‘q yarimo‘tkazgichlarda ustun.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "GaAs Dyakonov–Perel mexanizmi uchun tipik materialdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Dyakonov–Perel mexanizmida spin relaksatsiya tezligi impuls relaksatsiya vaqtiga teskari bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Aronov–Bir–Pikus mexanizmi elektronlar bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "Aronov–Bir–Pikus mexanizmi p-tip yarimo‘tkazgichlarda ustun.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "Aronov–Bir–Pikus mexanizmida spin relaksatsiya teshiklar konsentratsiyasiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin diffuziya uzunligi spin saqlanib qolgan masofani bildiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Dyakonov–Perel mexanizmida spin diffuziya uzunligi tartibsizlikka bog‘liq emas.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin ekstraksiyasi ferromagnitdan yarimo‘tkazgichga elektron chiqishi bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin ekstraksiyasi yarimo‘tkazgichdan ferromagnitga elektron oqimida yuz beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Kerr aylanish spektroskopiyasi spinning z-komponentini o‘lchaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle egri chizig‘i spin umrini aniqlashga yordam beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin–orbita bog‘lanish kuchi atom raqamiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Kremniyda spin relaksatsiyasi germaniyga nisbatan kuchliroq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Elliott munosabati spin relaksatsiyani baholashda qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin relaksatsiya mexanizmlari bir-biridan mustaqil bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 4,
+    "questionId": 31,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin kirgizish nima?",
+    "options": [
+      "Tokni oshirish",
+      "Zaryad kiritish",
+      "Spin qutblangan tashuvchilarni kiritish",
+      "Issiqlik berish"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 4,
+    "questionId": 32,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Fe/GaAs tajribalarida spin qanday aniqlanadi?",
+    "options": [
+      "SQUID",
+      "Kerr aylanish",
+      "XRD",
+      "STM"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 33,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Hanle effektida tashqi magnit maydon qanday rol o‘ynaydi?",
+    "options": [
+      "Tokni oshiradi",
+      "Spin pretsessiyasini keltiradi",
+      "Domen hosil qiladi",
+      "Qarshilikni kamaytiradi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 34,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin relaksatsiya vaqti qaysi belgi bilan ifodalanadi?",
+    "options": [
+      "τp",
+      "T₁",
+      "μ",
+      "χ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 35,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Elliott–Yafet mexanizmining asosiy sababi nima?",
+    "options": [
+      "Domenlar",
+      "Spin–orbita va sochilish",
+      "Magnit maydon",
+      "Tunnel effekt"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 36,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Elliott–Yafet mexanizmida spin relaksatsiya nimaga proporsional?",
+    "options": [
+      "τp",
+      "1/τp",
+      "B²",
+      "χ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 37,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Dyakonov–Perel mexanizmi qaysi hodisaga asoslanadi?",
+    "options": [
+      "Spin-flip sochilish",
+      "Motional narrowing",
+      "Domen devorlari",
+      "Tunnel rezonansi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 38,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Dyakonov–Perel mexanizmida spin relaksatsiya vaqti nimaga bog‘liq?",
+    "options": [
+      "τp ga teskari",
+      "τp ga to‘g‘ri",
+      "Haroratga bog‘liq emas",
+      "Zichlikka"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 4,
+    "questionId": 39,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Inversiya simmetriyasi yo‘q tizimlarga misol qaysi?",
+    "options": [
+      "Si",
+      "Ge",
+      "GaAs",
+      "Al"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 4,
+    "questionId": 40,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Aronov–Bir–Pikus mexanizmi qaysi tashuvchilar bilan bog‘liq?",
+    "options": [
+      "Elektronlar",
+      "Fononlar",
+      "Teshiklar",
+      "Magnonlar"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 4,
+    "questionId": 41,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Aronov–Bir–Pikus mexanizmida asosiy almashuv turi qaysi?",
+    "options": [
+      "s–d",
+      "p–d",
+      "d–d",
+      "RKKY"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 42,
+    "type": "SINGLE_CHOICE",
+    "questionText": "1/T₁ ∝ Jpd²·p bog‘lanishi qaysi mexanizmga tegishli?",
+    "options": [
+      "Elliott–Yafet",
+      "Dyakonov–Perel",
+      "Aronov–Bir–Pikus",
+      "RKKY"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 4,
+    "questionId": 43,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin akkumulatsiyasi qayerda kuchliroq bo‘ladi?",
+    "options": [
+      "Kanal markazida",
+      "Interfeys yaqinida",
+      "Hajm ichida",
+      "Vakuumda"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 44,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin diffuziya uzunligi nimani bildiradi?",
+    "options": [
+      "Spin tezligini",
+      "Spin saqlanish masofasini",
+      "Tok kuchini",
+      "Magnit momentni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 45,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Shottki to‘siqlari nimani kamaytiradi?",
+    "options": [
+      "Spin relaksatsiyasini",
+      "O‘tkazuvchanlik nomutanosibligini",
+      "Kerr burchagini",
+      "Domen sonini"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 46,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin ekstraksiyasi qachon yuz beradi?",
+    "options": [
+      "FM → SC",
+      "SC → FM",
+      "SC → SC",
+      "FM → FM"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 47,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Elliott–Yafet mexanizmi qaysi atomlarda kuchliroq?",
+    "options": [
+      "Yengil atomlarda",
+      "Og‘ir atomlarda",
+      "Vodorodda",
+      "Geliyda"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 48,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Dyakonov–Perel mexanizmi qaysi sohada ustun?",
+    "options": [
+      "Katta tartibsizlikda",
+      "Kuchsiz sochilishda",
+      "Yuqori spin–orbita maydonida",
+      "Past haroratda"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 4,
+    "questionId": 49,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin–orbita bog‘lanish nimaga olib keladi?",
+    "options": [
+      "Zaryad yo‘qolishiga",
+      "Spin pretsessiyasiga",
+      "Domen parchalanishiga",
+      "Tok uzilishiga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 50,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kerr burchagi θK nimani ifodalaydi?",
+    "options": [
+      "Tok qiymatini",
+      "Spin qutblanishni",
+      "Qarshilikni",
+      "Zichlikni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 51,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Hanle egri chizig‘i nimaga bog‘liq?",
+    "options": [
+      "Tokka",
+      "Magnit maydonga",
+      "Haroratga",
+      "Bosimga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 52,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin relaksatsiya vaqti uzun bo‘lishi nimani bildiradi?",
+    "options": [
+      "Tez so‘nish",
+      "Spin barqarorligi",
+      "Katta qarshilik",
+      "Kuchli magnitlanish"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 53,
+    "type": "SINGLE_CHOICE",
+    "questionText": "GaAs da spin umrining uzun bo‘lishi nimaga bog‘liq?",
+    "options": [
+      "Kuchli fononlarga",
+      "Mos legirlashga",
+      "Domenlarga",
+      "Tunnel effektga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 54,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin diffuziya uzunligi qaysi kattalik bilan bog‘liq?",
+    "options": [
+      "χ",
+      "D·τs",
+      "μ₀",
+      "B²"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 55,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Elliott–Yafet mexanizmi qaysi sochilish bilan bog‘liq?",
+    "options": [
+      "Elastik",
+      "Spin-flip",
+      "Magnit",
+      "Tunnel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 56,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Dyakonov–Perel mexanizmida Ωk nimani bildiradi?",
+    "options": [
+      "Energiya",
+      "Spin–orbita maydon",
+      "Qarshilik",
+      "Zaryad"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 57,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Aronov–Bir–Pikus mexanizmi qaysi materiallarda kuchli?",
+    "options": [
+      "n-tip Si",
+      "p-tip DMS",
+      "Metallarda",
+      "Dielektriklarda"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 58,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin kirgizishda interfeys sifati nimaga ta’sir qiladi?",
+    "options": [
+      "Faqat tokka",
+      "Spin samaradorligiga",
+      "Haroratga",
+      "Fononlarga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 59,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Kerr aylanish usuli qaysi toifaga kiradi?",
+    "options": [
+      "Elektr",
+      "Magnito-optik",
+      "Mexanik",
+      "Issiqlik"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 60,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin relaksatsiya mexanizmlarini ajratish nimaga asoslanadi?",
+    "options": [
+      "Tok qiymatiga",
+      "Harorat va legirlashga",
+      "Rangga",
+      "Bosimga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 4,
+    "questionId": 61,
+    "type": "FILL_BLANK",
+    "questionText": "Spin kirgizish jarayonida tashuvchilar ______ bo‘ladi.",
+    "correctAnswer": "spin-qutblangan"
+  },
+  {
+    "topicId": 4,
+    "questionId": 62,
+    "type": "FILL_BLANK",
+    "questionText": "Kerr aylanish burchagi ______ ni o‘lchaydi.",
+    "correctAnswer": "spin qutblanishni"
+  },
+  {
+    "topicId": 4,
+    "questionId": 63,
+    "type": "FILL_BLANK",
+    "questionText": "Hanle effekti spin ______ ni aniqlashga imkon beradi.",
+    "correctAnswer": "umrini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 64,
+    "type": "FILL_BLANK",
+    "questionText": "Spin relaksatsiya vaqti ______ bilan belgilanadi.",
+    "correctAnswer": "T₁"
+  },
+  {
+    "topicId": 4,
+    "questionId": 65,
+    "type": "FILL_BLANK",
+    "questionText": "O‘tkazuvchanlik nomutanosibligi spin ______ ga to‘sqinlik qiladi.",
+    "correctAnswer": "kirgizishga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 66,
+    "type": "FILL_BLANK",
+    "questionText": "Elliott–Yafet mexanizmi spin–______ bog‘lanishiga asoslanadi.",
+    "correctAnswer": "orbita"
+  },
+  {
+    "topicId": 4,
+    "questionId": 67,
+    "type": "FILL_BLANK",
+    "questionText": "Og‘ir atomlarda spin relaksatsiyasi ______ bo‘ladi.",
+    "correctAnswer": "kuchliroq"
+  },
+  {
+    "topicId": 4,
+    "questionId": 68,
+    "type": "FILL_BLANK",
+    "questionText": "Dyakonov–Perel mexanizmi inversiya ______ yo‘q tizimlarda ustun.",
+    "correctAnswer": "simmetriyasi"
+  },
+  {
+    "topicId": 4,
+    "questionId": 69,
+    "type": "FILL_BLANK",
+    "questionText": "Dyakonov–Perel mexanizmi ______ torayish hodisasiga asoslanadi.",
+    "correctAnswer": "harakatga bog‘liq"
+  },
+  {
+    "topicId": 4,
+    "questionId": 70,
+    "type": "FILL_BLANK",
+    "questionText": "Aronov–Bir–Pikus mexanizmi ______ tip yarimo‘tkazgichlarda muhim.",
+    "correctAnswer": "p"
+  },
+  {
+    "topicId": 4,
+    "questionId": 71,
+    "type": "FILL_BLANK",
+    "questionText": "Aronov–Bir–Pikus mexanizmida p–d ______ muhim rol o‘ynaydi.",
+    "correctAnswer": "almashuv"
+  },
+  {
+    "topicId": 4,
+    "questionId": 72,
+    "type": "FILL_BLANK",
+    "questionText": "Spin diffuziya uzunligi spin ______ masofasini bildiradi.",
+    "correctAnswer": "saqlanish"
+  },
+  {
+    "topicId": 4,
+    "questionId": 73,
+    "type": "FILL_BLANK",
+    "questionText": "Spin ekstraksiyasi ______ dan ferromagnitga elektron oqimidir.",
+    "correctAnswer": "yarimo‘tkazgich"
+  },
+  {
+    "topicId": 4,
+    "questionId": 74,
+    "type": "FILL_BLANK",
+    "questionText": "Shottki to‘siqlari spin kirgizish ______ ni oshiradi.",
+    "correctAnswer": "samaradorligini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 75,
+    "type": "FILL_BLANK",
+    "questionText": "Kerr aylanish usuli ______ metod hisoblanadi.",
+    "correctAnswer": "optik"
+  },
+  {
+    "topicId": 4,
+    "questionId": 76,
+    "type": "FILL_BLANK",
+    "questionText": "Elliott munosabati spin relaksatsiyani ______ baholaydi.",
+    "correctAnswer": "taxminiy"
+  },
+  {
+    "topicId": 4,
+    "questionId": 77,
+    "type": "FILL_BLANK",
+    "questionText": "Dyakonov–Perel mexanizmida spin relaksatsiya tezligi ______ ga bog‘liq.",
+    "correctAnswer": "impuls relaksatsiyasiga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 78,
+    "type": "FILL_BLANK",
+    "questionText": "Aronov–Bir–Pikus mexanizmida spin relaksatsiya ______ bilan ortadi.",
+    "correctAnswer": "teshiklar soni"
+  },
+  {
+    "topicId": 4,
+    "questionId": 79,
+    "type": "FILL_BLANK",
+    "questionText": "Spin akkumulatsiyasi asosan ______ yaqinida kuzatiladi.",
+    "correctAnswer": "interfeys"
+  },
+  {
+    "topicId": 4,
+    "questionId": 80,
+    "type": "FILL_BLANK",
+    "questionText": "Spintronika qurilmalari spin ______ ga asoslanadi.",
+    "correctAnswer": "boshqaruviga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 81,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin kirgizishning asosiy maqsadi nima?",
+    "correctAnswer": "spin qutblangan tok hosil qilish"
+  },
+  {
+    "topicId": 4,
+    "questionId": 82,
+    "type": "SHORT_ANSWER",
+    "questionText": "Fe/GaAs tizimi nega qulay?",
+    "correctAnswer": "yaxshi panjara mosligi sababli"
+  },
+  {
+    "topicId": 4,
+    "questionId": 83,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kerr aylanish nima orqali yuzaga keladi?",
+    "correctAnswer": "spin-qutblangan tashuvchilar orqali"
+  },
+  {
+    "topicId": 4,
+    "questionId": 84,
+    "type": "SHORT_ANSWER",
+    "questionText": "Hanle effekti nimani ko‘rsatadi?",
+    "correctAnswer": "spin pretsessiyasi va umrini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 85,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin relaksatsiyasi nimani anglatadi?",
+    "correctAnswer": "spin yo‘nalishining yo‘qolishini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 86,
+    "type": "SHORT_ANSWER",
+    "questionText": "Elliott–Yafet mexanizmining fizik sababi nima?",
+    "correctAnswer": "spin–orbita va sochilish"
+  },
+  {
+    "topicId": 4,
+    "questionId": 87,
+    "type": "SHORT_ANSWER",
+    "questionText": "Dyakonov–Perel mexanizmi nimaga asoslanadi?",
+    "correctAnswer": "spin pretsessiyasining tasodifiylashuviga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 88,
+    "type": "SHORT_ANSWER",
+    "questionText": "Aronov–Bir–Pikus mexanizmi nimaga bog‘liq?",
+    "correctAnswer": "teshik–magnit ion o‘zaro ta’siriga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 89,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin akkumulatsiyasi nimani bildiradi?",
+    "correctAnswer": "spinlarning lokal yig‘ilishini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 90,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin ekstraksiyasi nimadan dalolat beradi?",
+    "correctAnswer": "interfeys effekti mavjudligini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 91,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin diffuziya uzunligi nimaga bog‘liq?",
+    "correctAnswer": "D va τs ga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 92,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin relaksatsiya vaqti katta bo‘lsa, nima sodir bo‘ladi?",
+    "correctAnswer": "spin uzoq saqlanadi"
+  },
+  {
+    "topicId": 4,
+    "questionId": 93,
+    "type": "SHORT_ANSWER",
+    "questionText": "Dyakonov–Perel mexanizmi qaysi kristallarda ustun?",
+    "correctAnswer": "zinc-blende"
+  },
+  {
+    "topicId": 4,
+    "questionId": 94,
+    "type": "SHORT_ANSWER",
+    "questionText": "Elliott–Yafet mexanizmi qaysi materiallarda kuchliroq?",
+    "correctAnswer": "og‘ir atomli"
+  },
+  {
+    "topicId": 4,
+    "questionId": 95,
+    "type": "SHORT_ANSWER",
+    "questionText": "Aronov–Bir–Pikus mexanizmi qaysi tizimlar uchun xos?",
+    "correctAnswer": "p-tip DMS"
+  },
+  {
+    "topicId": 4,
+    "questionId": 96,
+    "type": "SHORT_ANSWER",
+    "questionText": "Kerr aylanish burchagi belgisi nimani ko‘rsatadi?",
+    "correctAnswer": "spin yo‘nalishini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 97,
+    "type": "SHORT_ANSWER",
+    "questionText": "Hanle egri chizig‘ining kengligi nimani beradi?",
+    "correctAnswer": "spin umrini"
+  },
+  {
+    "topicId": 4,
+    "questionId": 98,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin kirgizish samaradorligi nimaga bog‘liq?",
+    "correctAnswer": "interfeys sifatiga"
+  },
+  {
+    "topicId": 4,
+    "questionId": 99,
+    "type": "SHORT_ANSWER",
+    "questionText": "Spin relaksatsiya mexanizmlarini ajratish nima uchun muhim?",
+    "correctAnswer": "spin qurilmalarni optimallashtirish uchun"
+  },
+  {
+    "topicId": 4,
+    "questionId": 100,
+    "type": "SHORT_ANSWER",
+    "questionText": "Ushbu mavzuning asosiy amaliy sohasi nima?",
+    "correctAnswer": "spintronika"
+  }
+]

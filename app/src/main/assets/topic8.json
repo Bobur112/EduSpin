@@ -1,0 +1,1002 @@
+[
+  {
+    "topicId": 8,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafen bir atom qalinlikka ega 2D kristalldir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafen tabiiy holda mustaqil kristal sifatida mavjud.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafen grafitdan mexanik ajratish orqali olingan.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafen panjarasi asalari uyasi (honeycomb) shakliga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafendagi elektronlar parabolik dispersiyaga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafen Dirak nuqtalariga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafendagi tashuvchilar massasiz kvazi-zarralar sifatida harakat qiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafenda tabiiy taqiqlangan zona mavjud.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Silitsen kremniy atomlaridan tashkil topgan 2D materialdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Silitsen havoda barqaror hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Germenen 2D germaniy qatlamidir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "Stanen qalay atomlaridan tashkil topgan 2D materialdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "2D materiallarda kvant effektlar kuchli namoyon bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "2D kristallar tashqi muhitga juda sezgir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Grafenda kvant Xoll effekti kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "MoS₂ faqat ko‘p qatlamli holatda bevosita band gapga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Monoqatlamli MoS₂ bevosita taqiqlangan zonaga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "TMDlar van der Vaals kuchlari bilan bog‘langan qatlamlarga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "TMDlarda spin–orbita o‘zaro ta’siri kuchsiz.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "Volfram asosidagi TMDlarda SOC kuchliroq bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Qora fosfor anizotrop xossalarga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "2D materiallarda band gapni elektr maydon bilan boshqarish mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "h-BN monoqatlamlari dielektrik hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "NbSe₂ metall xususiyatiga ega TMDdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "V-B guruh TMDlari yarimo‘tkazgichdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Zaryad zichligi to‘lqini (CDW) NbSe₂ da kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "TMC va TMHlar energiya saqlash tizimlarida qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Metall xalkogenidlar ion diffuziyasi uchun qulay tuzilishga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Termal batareyalar yuqori haroratda ishlaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Termal batareyalar qayta zaryadlanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 8,
+    "questionId": 31,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafen qaysi atomlardan tashkil topgan?",
+    "options": [
+      "Si",
+      "C",
+      "Ge",
+      "Sn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 32,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafen panjarasi qanday shaklda?",
+    "options": [
+      "Kubik",
+      "Tetragonal",
+      "Asalari uyasi",
+      "Zanjir"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 33,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafendagi Dirak nuqtalari qayerda joylashgan?",
+    "options": [
+      "Γ",
+      "M",
+      "K va K′",
+      "X"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 34,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafendagi elektronlarning dispersiyasi qanday?",
+    "options": [
+      "Kvadratik",
+      "Chiziqli",
+      "Eksponensial",
+      "Giperbolik"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 35,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Silitsen qaysi usulda sintez qilinadi?",
+    "options": [
+      "CVD",
+      "MBE",
+      "PLD",
+      "Sol-gel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 36,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Germenen qaysi elementga asoslangan?",
+    "options": [
+      "C",
+      "Si",
+      "Ge",
+      "Sn"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 37,
+    "type": "SINGLE_CHOICE",
+    "questionText": "MoS₂ monoqatlamining band gap qiymati taxminan:",
+    "options": [
+      "0 eV",
+      "0.5 eV",
+      "1.9 eV",
+      "3.5 eV"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 38,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TMDlarning umumiy formulasi:",
+    "options": [
+      "MX",
+      "MX₂",
+      "M₂X",
+      "M₂X₃"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 39,
+    "type": "SINGLE_CHOICE",
+    "questionText": "SOC kuchi qaysi elementlarda katta bo‘ladi?",
+    "options": [
+      "Yengil",
+      "Og‘ir",
+      "Dielektrik",
+      "Gaz"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 40,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Monoqatlamli TMDlar qanday band gapga ega?",
+    "options": [
+      "Bilvosita",
+      "Nol",
+      "Bevosita",
+      "Tasodifiy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 41,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Qora fosforning asosiy xususiyati:",
+    "options": [
+      "Izotropiya",
+      "Anizotropiya",
+      "Metalllik",
+      "Supero‘tkazuvchanlik"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 42,
+    "type": "SINGLE_CHOICE",
+    "questionText": "NbSe₂ da qaysi hodisa kuzatiladi?",
+    "options": [
+      "Kvant Xoll",
+      "CDW",
+      "Rashba",
+      "Spin LED"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 43,
+    "type": "SINGLE_CHOICE",
+    "questionText": "“Strain engineering” nimani anglatadi?",
+    "options": [
+      "Kimyoviy legirlash",
+      "Elektr maydon",
+      "Mexanik deformatsiya",
+      "Issiqlik"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 44,
+    "type": "SINGLE_CHOICE",
+    "questionText": "h-BN monoqatlamining tabiati:",
+    "options": [
+      "Metall",
+      "Yarim metall",
+      "Yarimo‘tkazgich",
+      "Izolyator"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 8,
+    "questionId": 45,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TMCs qaysi sohada istiqbollidir?",
+    "options": [
+      "Akustika",
+      "Energiya saqlash",
+      "Mexanika",
+      "Optik tolalar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 46,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Termal batareyalar qaysi haroratda faollashadi?",
+    "options": [
+      "25°C",
+      "100°C",
+      "350–550°C",
+      "1000°C"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 47,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Termal batareyalarda elektrolit sifatida nima ishlatiladi?",
+    "options": [
+      "Suv",
+      "Organik eritma",
+      "Eritilgan tuz",
+      "Polimer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 48,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Metall-havo batareyalarining asosiy afzalligi:",
+    "options": [
+      "Past energiya",
+      "Yuqori energiya zichligi",
+      "Past narx",
+      "Qisqa umr"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 49,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Eksiton nima?",
+    "options": [
+      "Foton",
+      "Ion",
+      "Elektron–teshik jufti",
+      "Magnon"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 50,
+    "type": "SINGLE_CHOICE",
+    "questionText": "2D materiallarda band gapni nima bilan sozlash mumkin?",
+    "options": [
+      "Faqat qatlam soni",
+      "Faqat maydon",
+      "Faqat strain",
+      "Barchasi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": 8,
+    "questionId": 51,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafenning mexanik xususiyati:",
+    "options": [
+      "Mo‘rt",
+      "Qattiq va moslashuvchan",
+      "Faqat qattiq",
+      "Elastik emas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 52,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafenda issiqlik kengayishi qanday?",
+    "options": [
+      "Musbat",
+      "Nol",
+      "Manfiy",
+      "Tasodifiy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 53,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TMDlarda spin va vodiy hodisalari nima deb ataladi?",
+    "options": [
+      "Spintronika",
+      "Valleytronika",
+      "Nanooptika",
+      "Fototexnika"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 54,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Li/FeS₂ batareyalari qayerda ishlatiladi?",
+    "options": [
+      "Maishiy",
+      "Telefon",
+      "Harbiy",
+      "Tibbiyot"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 55,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Birlamchi batareyalar qanday?",
+    "options": [
+      "Qayta zaryadlanadi",
+      "Zaryadsizlanmaydi",
+      "Qayta zaryadlanmaydi",
+      "Supero‘tkazuvchan"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 56,
+    "type": "SINGLE_CHOICE",
+    "questionText": "NbSe₂ ning asosiy xossasi:",
+    "options": [
+      "Dielektrik",
+      "Yarimo‘tkazgich",
+      "Metall",
+      "Amorf"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 57,
+    "type": "SINGLE_CHOICE",
+    "questionText": "2D materiallar nima sababdan sezgir?",
+    "options": [
+      "Qalinligi katta",
+      "Yuza tabiatiga ega",
+      "Ionli",
+      "Og‘ir"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 58,
+    "type": "SINGLE_CHOICE",
+    "questionText": "SOC nimani anglatadi?",
+    "options": [
+      "Spin–orbit coupling",
+      "Superconducting order",
+      "Spin current",
+      "Surface charge"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": 8,
+    "questionId": 59,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Grafen qanday material sinfiga kiradi?",
+    "options": [
+      "3D",
+      "1D",
+      "2D",
+      "0D"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 8,
+    "questionId": 60,
+    "type": "SINGLE_CHOICE",
+    "questionText": "4.2-mavzuning asosiy yo‘nalishi:",
+    "options": [
+      "Klassik elektronika",
+      "2D materiallar fizikasi",
+      "Akustika",
+      "Optika"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 8,
+    "questionId": 61,
+    "type": "FILL_BLANK",
+    "questionText": "Grafen ______ atomlaridan tashkil topgan.",
+    "correctAnswer": "uglerod"
+  },
+  {
+    "topicId": 8,
+    "questionId": 62,
+    "type": "FILL_BLANK",
+    "questionText": "Grafen panjarasi ______ shaklga ega.",
+    "correctAnswer": "asalari uyasi"
+  },
+  {
+    "topicId": 8,
+    "questionId": 63,
+    "type": "FILL_BLANK",
+    "questionText": "Grafendagi elektronlar ______ dispersiyaga ega.",
+    "correctAnswer": "chiziqli"
+  },
+  {
+    "topicId": 8,
+    "questionId": 64,
+    "type": "FILL_BLANK",
+    "questionText": "Silitsen ______ atomlaridan iborat.",
+    "correctAnswer": "kremniy"
+  },
+  {
+    "topicId": 8,
+    "questionId": 65,
+    "type": "FILL_BLANK",
+    "questionText": "Germenen — 2D ______ qatlamidir.",
+    "correctAnswer": "germaniy"
+  },
+  {
+    "topicId": 8,
+    "questionId": 66,
+    "type": "FILL_BLANK",
+    "questionText": "MoS₂ monoqatlamida band gap ______ bo‘ladi.",
+    "correctAnswer": "bevosita"
+  },
+  {
+    "topicId": 8,
+    "questionId": 67,
+    "type": "FILL_BLANK",
+    "questionText": "TMDlar ______ kuchlari bilan bog‘langan.",
+    "correctAnswer": "van der Vaals"
+  },
+  {
+    "topicId": 8,
+    "questionId": 68,
+    "type": "FILL_BLANK",
+    "questionText": "SOC qisqartmasi ______ anglatadi.",
+    "correctAnswer": "spin–orbita o‘zaro ta’sir"
+  },
+  {
+    "topicId": 8,
+    "questionId": 69,
+    "type": "FILL_BLANK",
+    "questionText": "Qora fosfor kuchli ______ xususiyatga ega.",
+    "correctAnswer": "anizotrop"
+  },
+  {
+    "topicId": 8,
+    "questionId": 70,
+    "type": "FILL_BLANK",
+    "questionText": "h-BN monoqatlamlari ______ hisoblanadi.",
+    "correctAnswer": "izolyator"
+  },
+  {
+    "topicId": 8,
+    "questionId": 71,
+    "type": "FILL_BLANK",
+    "questionText": "NbSe₂ da ______ hodisasi kuzatiladi.",
+    "correctAnswer": "CDW"
+  },
+  {
+    "topicId": 8,
+    "questionId": 72,
+    "type": "FILL_BLANK",
+    "questionText": "2D materiallar tashqi muhitga ______ sezgir.",
+    "correctAnswer": "juda"
+  },
+  {
+    "topicId": 8,
+    "questionId": 73,
+    "type": "FILL_BLANK",
+    "questionText": "Eksiton — ______ bilan bog‘langan juftlik.",
+    "correctAnswer": "elektron va teshik"
+  },
+  {
+    "topicId": 8,
+    "questionId": 74,
+    "type": "FILL_BLANK",
+    "questionText": "Strain engineering ______ orqali boshqarishdir.",
+    "correctAnswer": "mexanik deformatsiya"
+  },
+  {
+    "topicId": 8,
+    "questionId": 75,
+    "type": "FILL_BLANK",
+    "questionText": "TMCs energiya ______ tizimlarida ishlatiladi.",
+    "correctAnswer": "saqlash"
+  },
+  {
+    "topicId": 8,
+    "questionId": 76,
+    "type": "FILL_BLANK",
+    "questionText": "Termal batareyalar ______ haroratda ishlaydi.",
+    "correctAnswer": "yuqori"
+  },
+  {
+    "topicId": 8,
+    "questionId": 77,
+    "type": "FILL_BLANK",
+    "questionText": "Termal batareyalarda elektrolit ______ holatda bo‘ladi.",
+    "correctAnswer": "eritilgan"
+  },
+  {
+    "topicId": 8,
+    "questionId": 78,
+    "type": "FILL_BLANK",
+    "questionText": "Metall-havo batareyalarida oksidlovchi ______ bo‘ladi.",
+    "correctAnswer": "havo"
+  },
+  {
+    "topicId": 8,
+    "questionId": 79,
+    "type": "FILL_BLANK",
+    "questionText": "TMDlarda spin va vodiy hodisasi ______ deyiladi.",
+    "correctAnswer": "valleytronika"
+  },
+  {
+    "topicId": 8,
+    "questionId": 80,
+    "type": "FILL_BLANK",
+    "questionText": "Grafen ______ materiallar sinfining asoschisi.",
+    "correctAnswer": "2D"
+  },
+  {
+    "topicId": 8,
+    "questionId": 81,
+    "type": "SHORT_ANSWER",
+    "questionText": "2D materiallar nima?",
+    "correctAnswer": "bir atom qalinlikdagi kristallar"
+  },
+  {
+    "topicId": 8,
+    "questionId": 82,
+    "type": "SHORT_ANSWER",
+    "questionText": "Grafen nima uchun yarim metall deyiladi?",
+    "correctAnswer": "tabiiy band gap yo‘qligi sababli"
+  },
+  {
+    "topicId": 8,
+    "questionId": 83,
+    "type": "SHORT_ANSWER",
+    "questionText": "Dirak nuqtalari nimani bildiradi?",
+    "correctAnswer": "valent va o‘tkazuvchanlik zonalarining kesishishini"
+  },
+  {
+    "topicId": 8,
+    "questionId": 84,
+    "type": "SHORT_ANSWER",
+    "questionText": "Silitsenning asosiy muammosi nima?",
+    "correctAnswer": "havoda beqarorligi"
+  },
+  {
+    "topicId": 8,
+    "questionId": 85,
+    "type": "SHORT_ANSWER",
+    "questionText": "Germenen grafenga qaysi jihatdan o‘xshash?",
+    "correctAnswer": "honeycomb panjara va chiziqli dispersiya jihatidan"
+  },
+  {
+    "topicId": 8,
+    "questionId": 86,
+    "type": "SHORT_ANSWER",
+    "questionText": "MoS₂ nima uchun optoelektronikada muhim?",
+    "correctAnswer": "monoqatlamda bevosita band gapga ega bo‘lgani uchun"
+  },
+  {
+    "topicId": 8,
+    "questionId": 87,
+    "type": "SHORT_ANSWER",
+    "questionText": "SOC TMDlarda nimaga olib keladi?",
+    "correctAnswer": "spin holatlarining energetik ajralishiga"
+  },
+  {
+    "topicId": 8,
+    "questionId": 88,
+    "type": "SHORT_ANSWER",
+    "questionText": "Qora fosforning ustunligi nimada?",
+    "correctAnswer": "kuchli anizotrop xossalarida"
+  },
+  {
+    "topicId": 8,
+    "questionId": 89,
+    "type": "SHORT_ANSWER",
+    "questionText": "CDW nima?",
+    "correctAnswer": "zaryad zichligining fazoviy to‘lqini"
+  },
+  {
+    "topicId": 8,
+    "questionId": 90,
+    "type": "SHORT_ANSWER",
+    "questionText": "Strain muhandisligi nimani o‘zgartiradi?",
+    "correctAnswer": "elektron tuzilma va band gapni"
+  },
+  {
+    "topicId": 8,
+    "questionId": 91,
+    "type": "SHORT_ANSWER",
+    "questionText": "Eksitonlar qayerda barqaror bo‘ladi?",
+    "correctAnswer": "ikki o‘lchovli materiallarda"
+  },
+  {
+    "topicId": 8,
+    "questionId": 92,
+    "type": "SHORT_ANSWER",
+    "questionText": "Valleytronika nimani boshqaradi?",
+    "correctAnswer": "elektronlarning vodiy indeksini"
+  },
+  {
+    "topicId": 8,
+    "questionId": 93,
+    "type": "SHORT_ANSWER",
+    "questionText": "TMCs nimaga qulay?",
+    "correctAnswer": "ion diffuziyasi uchun"
+  },
+  {
+    "topicId": 8,
+    "questionId": 94,
+    "type": "SHORT_ANSWER",
+    "questionText": "Termal batareyalar qachon faollashadi?",
+    "correctAnswer": "yuqori haroratda qizdirilganda"
+  },
+  {
+    "topicId": 8,
+    "questionId": 95,
+    "type": "SHORT_ANSWER",
+    "questionText": "Termal batareyalarning asosiy afzalligi nimada?",
+    "correctAnswer": "ishonchliligi va uzoq saqlanishida"
+  },
+  {
+    "topicId": 8,
+    "questionId": 96,
+    "type": "SHORT_ANSWER",
+    "questionText": "Metall-havo batareyalari nimadan foydalanadi?",
+    "correctAnswer": "atmosfera kislorodidan"
+  },
+  {
+    "topicId": 8,
+    "questionId": 97,
+    "type": "SHORT_ANSWER",
+    "questionText": "2D materiallar nega istiqbollidir?",
+    "correctAnswer": "xossalarini tashqi maydonlar bilan boshqarish mumkinligi sababli"
+  },
+  {
+    "topicId": 8,
+    "questionId": 98,
+    "type": "SHORT_ANSWER",
+    "questionText": "Grafenning mexanik afzalligi nimada?",
+    "correctAnswer": "yuqori mustahkamlik va egiluvchanlikda"
+  },
+  {
+    "topicId": 8,
+    "questionId": 99,
+    "type": "SHORT_ANSWER",
+    "questionText": "TMDlar qaysi sohalarda muhim?",
+    "correctAnswer": "spintronika va optoelektronikada"
+  },
+  {
+    "topicId": 8,
+    "questionId": 100,
+    "type": "SHORT_ANSWER",
+    "questionText": "8-mavzuning umumiy ahamiyati nimada?",
+    "correctAnswer": "zamonaviy ikki o‘lchovli materiallar fizikasini tushuntirishda"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "topicId": 9,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Termospintronika issiqlik va spin hodisalarining o‘zaro ta’sirini o‘rganadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "GMR va TMR relativistik spintronika hodisalariga kiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE va AMR bir jinsli spin–orbita bog‘langan magnitlarda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "(Ga,Mn)As materiali ferromagnit yarimo‘tkazgich hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Anomal Nernst effekti (ANE) AHE ga o‘xshash geometriyada kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "ANE faqat tashqi magnit maydon mavjud bo‘lganda yuzaga keladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Zeebek koeffitsienti issiqlik gradientidan elektr kuchlanish hosil bo‘lishini ifodalaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Peltier koeffitsienti issiqlik oqimini elektr tokiga bog‘laydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Ochiq zanjir sharoitida tok zichligi nolga teng bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "ANE ko‘ndalang elektr maydon hosil bo‘lishi bilan tavsiflanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Mott munosabati termoelektrik va transport kattaliklarini bog‘laydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "Ichki AHE tarqalish vaqtiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "Skew-scattering mexanizmi tashqi AHE ga tegishli.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "(Ga,Mn)As da AHE va ANE ichki kelib chiqishga ega.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Anizotrop magnitotermokuchaytirish (AMT) cos 2φ qonuniga bo‘ysunadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "Ko‘ndalang AMT sin 2φ qonuniyatiga amal qiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "TMT va Spin-Zeebek effekti bir xil hodisadir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Tunnel magnitotermokuchaytirish tunnellanish uzatish funksiyasiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "TAMT hodisasi faqat ikki magnit elektrodli qurilmalarda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "TAMT spin–orbita bog‘lanish bilan chambarchas bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-Zeebek effektida to‘g‘ridan-to‘g‘ri zaryad kuchlanishi hosil bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-Zeebek effektida spin kimyoviy potensiallari farqi yuzaga keladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-Hall effekti spin tokini elektr kuchlanishga aylantiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-Zeebek effekti lokal hodisa hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnonlar spin-Zeebek effektida muhim rol o‘ynashi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin switching hodisasi tok yo‘nalishini o‘zgartirishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "Magnit bipolyar tranzistor to‘yinganlik rejimida kuchaytira olmaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin–charge coupling kuchaytirish belgisini o‘zgartirishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin memristor qarshiligi spin holatiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin memristorlar faqat klassik xotiralarda qo‘llaniladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 9,
+    "questionId": 31,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Termospintronika nimani o‘rganadi?",
+    "options": [
+      "Faqat magnitlanishni",
+      "Issiqlik va spin o‘zaro ta’sirini",
+      "Elektr optikani",
+      "Kvant optikani"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 32,
+    "type": "SINGLE_CHOICE",
+    "questionText": "ANE qaysi effektga o‘xshash?",
+    "options": [
+      "GMR",
+      "TMR",
+      "AHE",
+      "SHE"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 33,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Zeebek koeffitsienti qaysi belgi bilan belgilanadi?",
+    "options": [
+      "α",
+      "σ",
+      "S",
+      "ρ"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 34,
+    "type": "SINGLE_CHOICE",
+    "questionText": "ANE da ko‘ndalang elektr maydon qaysi yo‘nalishda hosil bo‘ladi?",
+    "options": [
+      "∥ ∇T",
+      "∥ M",
+      "∇T ga perpendikulyar",
+      "M ga parallel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 35,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Mott munosabati nimani bog‘laydi?",
+    "options": [
+      "Qarshilik va tokni",
+      "O‘tkazuvchanlik va Zeebek koeffitsientini",
+      "Issiqlik va magnitlanishni",
+      "Kuchlanish va tokni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 36,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Ichki AHE uchun darajali ko‘rsatkich n ga teng:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 37,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Skew-scattering mexanizmida n qiymati:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 38,
+    "type": "SINGLE_CHOICE",
+    "questionText": "AMT qaysi effektning spin-kaloritronik analogi?",
+    "options": [
+      "AHE",
+      "GMR",
+      "AMR",
+      "SHE"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 39,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TMT effekti nimaga bog‘liq?",
+    "options": [
+      "Tok zichligiga",
+      "Uzatish funksiyasining energiyaga bog‘liqligiga",
+      "Namuna qalinligiga",
+      "Magnit maydon kuchiga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 40,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TAMT nechta magnit elektrodli qurilmada kuzatiladi?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 41,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-Zeebek effektida hosil bo‘ladigan kattalik:",
+    "options": [
+      "Zaryad kuchlanishi",
+      "Spin oqimi",
+      "Magnit maydon",
+      "Fototok"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 42,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin kimyoviy potensiallar farqi qanday belgilanadi?",
+    "options": [
+      "μ",
+      "μ↑ − μ↓",
+      "ΔT",
+      "Sxy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 43,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-Zeebek signali qaysi effekt orqali o‘lchanadi?",
+    "options": [
+      "AHE",
+      "AMR",
+      "SHE",
+      "TMR"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 44,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-Zeebek effektining nolokalligi nimani bildiradi?",
+    "options": [
+      "Tok yo‘qligini",
+      "Signal joyga bog‘liq emasligini",
+      "Faqat lokal hodisani",
+      "Issiqlik yo‘qligini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 45,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Magnit bipolyar tranzistorda tok belgisi nimaga bog‘liq?",
+    "options": [
+      "Haroratga",
+      "Kuchlanishga",
+      "Spin yo‘nalishiga",
+      "Qarshilikka"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 46,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin switching hodisasi nimani o‘zgartiradi?",
+    "options": [
+      "Haroratni",
+      "Tok yo‘nalishini",
+      "Magnit maydonni",
+      "Kuchlanishni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 47,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin–charge coupling nimani ta’minlaydi?",
+    "options": [
+      "Issiqlik almashinuvini",
+      "Spin va tok bog‘lanishini",
+      "Optik yutilishni",
+      "Fonon tarqalishini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 48,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristor oddiy memristordan nimasi bilan farq qiladi?",
+    "options": [
+      "Kattaligi",
+      "Ionlarga bog‘liqligi",
+      "Spinga bog‘liqligi",
+      "Kuchlanishga bog‘liqligi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 49,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristorda qarshilik nimaga bog‘liq?",
+    "options": [
+      "Vaqtga",
+      "Spin holatiga",
+      "Haroratga",
+      "Tokga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 50,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristor qaysi sohada muhim?",
+    "options": [
+      "Klassik mantiq",
+      "Neyromorf hisoblash",
+      "Optik tolalar",
+      "Akustika"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 51,
+    "type": "SINGLE_CHOICE",
+    "questionText": "(Ga,Mn)As nima uchun qulay model tizim?",
+    "options": [
+      "Arzonligi uchun",
+      "Kuchli spin–orbita bog‘lanish sababli",
+      "Dielektrikligi uchun",
+      "Yuqori haroratda ishlagani uchun"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 52,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-Zeebek effektida muhim rol o‘ynovchi kvazizarralar:",
+    "options": [
+      "Fotonlar",
+      "Fononlar",
+      "Magnonlar",
+      "Plazmonlar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 53,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TMT effekti qaysi qurilmalarda kuchliroq?",
+    "options": [
+      "Omik qurilmalarda",
+      "Tunnel qurilmalarda",
+      "Dielektriklarda",
+      "Optik tizimlarda"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 54,
+    "type": "SINGLE_CHOICE",
+    "questionText": "TAMT nimaga o‘xshash hodisa?",
+    "options": [
+      "AHE",
+      "TMR",
+      "TAMR",
+      "SHE"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 55,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristor xotirasi nimani “eslab qoladi”?",
+    "options": [
+      "Kuchlanishni",
+      "Tokni",
+      "Spin holatini",
+      "Haroratni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 56,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristor chiziqli bo‘lmagan tizimdir, chunki:",
+    "options": [
+      "Tok nol",
+      "Javob proporsional emas",
+      "Harorat o‘zgarmaydi",
+      "Qarshilik doimiy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 57,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin-Zeebek effektida elektr kuchlanish qayerda hosil bo‘ladi?",
+    "options": [
+      "Ferromagnitda",
+      "Nomagnit elektroddagi SHE orqali",
+      "Substratda",
+      "Havoda"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 58,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin switching hodisasi qaysi qurilmaga xos?",
+    "options": [
+      "LED",
+      "Magnit bipolyar tranzistor",
+      "Fotodiod",
+      "Kondensator"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 59,
+    "type": "SINGLE_CHOICE",
+    "questionText": "Spin memristor tuzilmasi odatda nechta qatlamdan iborat?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": 9,
+    "questionId": 60,
+    "type": "SINGLE_CHOICE",
+    "questionText": "4.3-mavzuning asosiy yo‘nalishi:",
+    "options": [
+      "Nanooptika",
+      "Termospintronika va spin xotira",
+      "Kvant optika",
+      "Akustik fononlar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": 9,
+    "questionId": 61,
+    "type": "FILL_BLANK",
+    "questionText": "Termospintronika ______ va spin o‘zaro ta’sirini o‘rganadi.",
+    "correctAnswer": "issiqlik"
+  },
+  {
+    "topicId": 9,
+    "questionId": 62,
+    "type": "FILL_BLANK",
+    "questionText": "ANE — ______ Nernst effekti.",
+    "correctAnswer": "anomal"
+  },
+  {
+    "topicId": 9,
+    "questionId": 63,
+    "type": "FILL_BLANK",
+    "questionText": "Zeebek koeffitsienti ______ bilan belgilanadi.",
+    "correctAnswer": "S"
+  },
+  {
+    "topicId": 9,
+    "questionId": 64,
+    "type": "FILL_BLANK",
+    "questionText": "Peltier koeffitsienti ______ bilan belgilanadi.",
+    "correctAnswer": "α"
+  },
+  {
+    "topicId": 9,
+    "questionId": 65,
+    "type": "FILL_BLANK",
+    "questionText": "Ochiq zanjir sharoitida tok zichligi ______ ga teng.",
+    "correctAnswer": "nol"
+  },
+  {
+    "topicId": 9,
+    "questionId": 66,
+    "type": "FILL_BLANK",
+    "questionText": "Mott munosabati termoelektrik va ______ kattaliklarni bog‘laydi.",
+    "correctAnswer": "transport"
+  },
+  {
+    "topicId": 9,
+    "questionId": 67,
+    "type": "FILL_BLANK",
+    "questionText": "Ichki AHE tarqalish vaqtiga ______ emas.",
+    "correctAnswer": "bog‘liq"
+  },
+  {
+    "topicId": 9,
+    "questionId": 68,
+    "type": "FILL_BLANK",
+    "questionText": "Skew-scattering tashqi ______ mexanizmiga kiradi.",
+    "correctAnswer": "AHE"
+  },
+  {
+    "topicId": 9,
+    "questionId": 69,
+    "type": "FILL_BLANK",
+    "questionText": "AMT cos ______ qonuniga bo‘ysunadi.",
+    "correctAnswer": "2φ"
+  },
+  {
+    "topicId": 9,
+    "questionId": 70,
+    "type": "FILL_BLANK",
+    "questionText": "Ko‘ndalang AMT sin ______ qonuniga amal qiladi.",
+    "correctAnswer": "2φ"
+  },
+  {
+    "topicId": 9,
+    "questionId": 71,
+    "type": "FILL_BLANK",
+    "questionText": "TMT tunnel qurilmalarda kuzatiladigan ______ hodisadir.",
+    "correctAnswer": "magnitotermokuchaytirish"
+  },
+  {
+    "topicId": 9,
+    "questionId": 72,
+    "type": "FILL_BLANK",
+    "questionText": "Spin-Zeebek effektida spin ______ yuzaga keladi.",
+    "correctAnswer": "oqimi"
+  },
+  {
+    "topicId": 9,
+    "questionId": 73,
+    "type": "FILL_BLANK",
+    "questionText": "Spin kimyoviy potensiallar farqi ______ bilan ifodalanadi.",
+    "correctAnswer": "μ↑ − μ↓"
+  },
+  {
+    "topicId": 9,
+    "questionId": 74,
+    "type": "FILL_BLANK",
+    "questionText": "Spin-Zeebek signali ______ effekt orqali o‘lchanadi.",
+    "correctAnswer": "Spin-Hall"
+  },
+  {
+    "topicId": 9,
+    "questionId": 75,
+    "type": "FILL_BLANK",
+    "questionText": "Nolokal spin-Zeebek effekti ______ bog‘liq emas.",
+    "correctAnswer": "elektrod joylashuviga"
+  },
+  {
+    "topicId": 9,
+    "questionId": 76,
+    "type": "FILL_BLANK",
+    "questionText": "Spin switching tok ______ o‘zgartiradi.",
+    "correctAnswer": "yo‘nalishini"
+  },
+  {
+    "topicId": 9,
+    "questionId": 77,
+    "type": "FILL_BLANK",
+    "questionText": "Spin–charge coupling spin va ______ bog‘lanishini bildiradi.",
+    "correctAnswer": "zaryad"
+  },
+  {
+    "topicId": 9,
+    "questionId": 78,
+    "type": "FILL_BLANK",
+    "questionText": "Spin memristor qarshiligi spin ______ ga bog‘liq.",
+    "correctAnswer": "holatiga"
+  },
+  {
+    "topicId": 9,
+    "questionId": 79,
+    "type": "FILL_BLANK",
+    "questionText": "Spin memristor “memory” va ______ so‘zlaridan olingan.",
+    "correctAnswer": "resistor"
+  },
+  {
+    "topicId": 9,
+    "questionId": 80,
+    "type": "FILL_BLANK",
+    "questionText": "Spin memristorlar ______ hisoblash tizimlarida muhim.",
+    "correctAnswer": "neyromorf"
+  },
+  {
+    "topicId": 9,
+    "id": 81,
+    "type": "SHORT_ANSWER",
+    "question": "Termospintronika nima?",
+    "correctText": "issiqlik va spin hodisalarini o‘rganadi"
+  },
+  {
+    "topicId": 9,
+    "id": 82,
+    "type": "SHORT_ANSWER",
+    "question": "ANE nimani hosil qiladi?",
+    "correctText": "ko‘ndalang elektr maydonni"
+  },
+  {
+    "topicId": 9,
+    "id": 83,
+    "type": "SHORT_ANSWER",
+    "question": "Mott munosabati nimani tekshiradi?",
+    "correctText": "AHE va ANE bog‘liqligini"
+  },
+  {
+    "topicId": 9,
+    "id": 84,
+    "type": "SHORT_ANSWER",
+    "question": "Ichki AHE nimasi bilan farqlanadi?",
+    "correctText": "tarqalishga bog‘liq emasligi bilan"
+  },
+  {
+    "topicId": 9,
+    "id": 85,
+    "type": "SHORT_ANSWER",
+    "question": "AMT qanday hodisa?",
+    "correctText": "spin-kaloritronik anizotropiya"
+  },
+  {
+    "topicId": 9,
+    "id": 86,
+    "type": "SHORT_ANSWER",
+    "question": "TMT nimaga asoslanadi?",
+    "correctText": "tunnel uzatish funksiyasiga"
+  },
+  {
+    "topicId": 9,
+    "id": 87,
+    "type": "SHORT_ANSWER",
+    "question": "TAMT qaysi effektning analogi?",
+    "correctText": "TAMR"
+  },
+  {
+    "topicId": 9,
+    "id": 88,
+    "type": "SHORT_ANSWER",
+    "question": "Spin-Zeebek effektida asosiy natija nima?",
+    "correctText": "spin kimyoviy potensiallar farqi"
+  },
+  {
+    "topicId": 9,
+    "id": 89,
+    "type": "SHORT_ANSWER",
+    "question": "Spin-Zeebek signali nima uchun nolokal?",
+    "correctText": "magnon va fonon uzatilishi sababli"
+  },
+  {
+    "topicId": 9,
+    "id": 90,
+    "type": "SHORT_ANSWER",
+    "question": "SHE spin-Zeebek effektida qanday rol o‘ynaydi?",
+    "correctText": "spin tokni elektr kuchlanishga aylantiradi"
+  },
+  {
+    "topicId": 9,
+    "id": 91,
+    "type": "SHORT_ANSWER",
+    "question": "Spin switching nimani bildiradi?",
+    "correctText": "spin yo‘nalishi almashishini"
+  },
+  {
+    "topicId": 9,
+    "id": 92,
+    "type": "SHORT_ANSWER",
+    "question": "Magnit bipolyar tranzistor nimasi bilan farq qiladi?",
+    "correctText": "to‘yinganlikda ham kuchaytirishi bilan"
+  },
+  {
+    "topicId": 9,
+    "id": 93,
+    "type": "SHORT_ANSWER",
+    "question": "Spin–charge coupling nimaga olib keladi?",
+    "correctText": "tok belgisi o‘zgarishiga"
+  },
+  {
+    "topicId": 9,
+    "id": 94,
+    "type": "SHORT_ANSWER",
+    "question": "Spin memristor nima?",
+    "correctText": "spin holatiga bog‘liq xotiraviy qarshilik"
+  },
+  {
+    "topicId": 9,
+    "id": 95,
+    "type": "SHORT_ANSWER",
+    "question": "Spin memristor nimani eslab qoladi?",
+    "correctText": "avvalgi spin holatini"
+  },
+  {
+    "topicId": 9,
+    "id": 96,
+    "type": "SHORT_ANSWER",
+    "question": "Spin memristor mexanizmi nimaga asoslanadi?",
+    "correctText": "spin switching va spin diffuziyaga"
+  },
+  {
+    "topicId": 9,
+    "id": 97,
+    "type": "SHORT_ANSWER",
+    "question": "Spin memristorning afzalligi nimada?",
+    "correctText": "past energiya sarfida"
+  },
+  {
+    "topicId": 9,
+    "id": 98,
+    "type": "SHORT_ANSWER",
+    "question": "Spin memristor qayerda qo‘llaniladi?",
+    "correctText": "MRAM va neyromorf tizimlarda"
+  },
+  {
+    "topicId": 9,
+    "id": 99,
+    "type": "SHORT_ANSWER",
+    "question": "(Ga,Mn)As nima uchun etalon tizim?",
+    "correctText": "boy spintronik effektlari sababli"
+  },
+  {
+    "topicId": 9,
+    "id": 100,
+    "type": "SHORT_ANSWER",
+    "question": "9-mavzuning umumiy ahamiyati nimada?",
+    "correctText": "issiqlik, spin va xotira qurilmalarini birlashtirishda"
+  }
+]

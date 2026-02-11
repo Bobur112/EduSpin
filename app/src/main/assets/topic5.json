@@ -1,0 +1,932 @@
+[
+  {
+    "topicId": 5,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Xoll effekti tok va magnit maydon o‘zaro perpendikulyar bo‘lganda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "Oddiy Xoll effektida yon tomonlarda zaryad ajralishi yuz beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "Anomal Xoll effekti faqat tashqi magnit maydon mavjud bo‘lganda paydo bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE magnitlanish vektori bilan bog‘liq qo‘shimcha hissa beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin–orbita bog‘lanish AHEning asosiy omillaridan biridir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "Skew scattering AHEning tashqi mexanizmiga kiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "Side jump hodisasi elektronlarning yon tomonga siljishi bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "Intrinsik AHE materialning elektron tuzilishiga bog‘liq emas.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "Berry egriligi impuls fazosida aniqlanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin Xoll effektida umumiy zaryad ajralishi kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin Xoll effektida qarama-qarshi spinli elektronlar yon tomonlarda to‘planadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "SHE magnitlangan materiallargagina xos.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE ferromagnit materiallarda kuchliroq namoyon bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "SHE spin oqimini hosil qiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE magnit tartibni tahlil qilishda ishlatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "SHE energiya samarador spintronik qurilmalar uchun muhimdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Anomal Xoll qarshiligi magnitlanish M ga proporsional.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "AMR antisimmеtrik magnitoqarshilik hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "AMR magnitlanish yo‘nalishiga sezgir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE ko‘ndalang qarshilik bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "(Ga,Mn)As AHEni o‘rganish uchun qulay materialdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE va SHE o‘zaro bog‘liq hodisalardir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Mott tarqalishi spin–bog‘liq nosimmetrik sochilishdir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Mott tarqalishi faqat ferromagnitlarda uchraydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Berry curvature elektron tezligiga anomal qo‘shimcha beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Intrinsik SHE topologik xususiyatlarga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "AHEda Hall kuchlanishi magnit maydonsiz ham paydo bo‘lishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "SHEda spin va zaryad oqimlari ajraladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Dirak spintronika relativistik effektlarga asoslanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 5,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "AHE 1881-yilda Hall tomonidan kashf etilgan.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "id": 31,
+    "type": "SINGLE_CHOICE",
+    "question": "Xoll effekti nimani o‘lchash imkonini beradi?",
+    "options": [
+      "Harorat",
+      "Zaryad tashuvchilar zichligi",
+      "Issiqlik sig‘imi",
+      "Domen o‘lchami"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 32,
+    "type": "SINGLE_CHOICE",
+    "question": "Anomal Xoll effekti qaysi kattalikka bog‘liq?",
+    "options": [
+      "Tok",
+      "Harorat",
+      "Magnitlanish",
+      "Bosim"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 33,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE formulasi qaysi ko‘rinishda yoziladi?",
+    "options": [
+      "ρ = R·I",
+      "ρxy = R0B + RsM",
+      "V = IR",
+      "χ = M/H"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 34,
+    "type": "SINGLE_CHOICE",
+    "question": "Skew scattering nimaga olib keladi?",
+    "options": [
+      "Simmetrik sochilishga",
+      "Nosimmetrik ko‘ndalang oqimga",
+      "Tokning yo‘qolishiga",
+      "Spin yo‘qolishiga"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 35,
+    "type": "SINGLE_CHOICE",
+    "question": "Side jump hodisasi nimani bildiradi?",
+    "options": [
+      "Elektron energiyasining ortishi",
+      "Elektron trayektoriyasining yon siljishi",
+      "Domen ko‘chishi",
+      "Magnitlanishning yo‘qolishi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "type": "SINGLE_CHOICE",
+    "question": "Intrinsik AHE nimaga asoslanadi?",
+    "options": [
+      "Kirishmalar",
+      "Fononlar",
+      "Berry egriligi",
+      "Issiqlik"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 37,
+    "type": "SINGLE_CHOICE",
+    "question": "Berry curvature qayerda aniqlanadi?",
+    "options": [
+      "Real fazoda",
+      "Impuls fazosida",
+      "Vaqt fazosida",
+      "Energiya fazosida"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 38,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin Xoll effektida qanday oqim hosil bo‘ladi?",
+    "options": [
+      "Zaryad oqimi",
+      "Issiqlik oqimi",
+      "Spin oqimi",
+      "Magnon oqimi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 39,
+    "type": "SINGLE_CHOICE",
+    "question": "SHE qaysi xususiyati bilan oddiy Xoll effektidan farq qiladi?",
+    "options": [
+      "Tok yo‘nalishi",
+      "Zaryad ajralmasligi",
+      "Harorat bog‘liqligi",
+      "Magnit maydon talab qilishi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 40,
+    "type": "SINGLE_CHOICE",
+    "question": "Ekstrinsik SHE nimaga asoslanadi?",
+    "options": [
+      "Berry curvature",
+      "Spin–orbita tarqalishi",
+      "Domenlar",
+      "Fonon rezonansi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 41,
+    "type": "SINGLE_CHOICE",
+    "question": "Intrinsik SHE nimaga bog‘liq?",
+    "options": [
+      "Material topologiyasiga",
+      "Tok kuchiga",
+      "Haroratga",
+      "Bosimga"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE qaysi materiallarda kuchliroq?",
+    "options": [
+      "Dielektriklarda",
+      "Ferromagnitlarda",
+      "Supero‘tkazgichlarda",
+      "Gazlarda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 43,
+    "type": "SINGLE_CHOICE",
+    "question": "AMR qanday qarshilik turiga kiradi?",
+    "options": [
+      "Antisimmеtrik",
+      "Simmеtrik",
+      "Kvant",
+      "Issiqlik"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 44,
+    "type": "SINGLE_CHOICE",
+    "question": "AMR nimaga sezgir?",
+    "options": [
+      "Tok yo‘nalishiga",
+      "Magnitlanish yo‘nalishiga",
+      "Haroratga",
+      "Bosimga"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "type": "SINGLE_CHOICE",
+    "question": "(Ga,Mn)As ning afzalligi nimada?",
+    "options": [
+      "Kuchli izolyatsiya",
+      "Sozlanadigan magnit va spin xossalari",
+      "Yuqori issiqlik o‘tkazuvchanlik",
+      "Kuchsiz spin–orbita"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 46,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE va SHE o‘rtasidagi umumiylik nimada?",
+    "options": [
+      "Fononlar",
+      "Spin–orbita bog‘lanish",
+      "Issiqlik",
+      "Zaryad neytralligi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 47,
+    "type": "SINGLE_CHOICE",
+    "question": "Mott tarqalishi qaysi turga kiradi?",
+    "options": [
+      "Norelativistik",
+      "Relativistik",
+      "Termik",
+      "Elastik"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 48,
+    "type": "SINGLE_CHOICE",
+    "question": "Dirak spintronika nimani o‘rganadi?",
+    "options": [
+      "Issiqlik effektlarini",
+      "Relativistik spin hodisalarni",
+      "Supero‘tkazuvchanlikni",
+      "Optik yutilishni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "type": "SINGLE_CHOICE",
+    "question": "Berry curvature elektron tezligiga qanday hissa qo‘shadi?",
+    "options": [
+      "Parallel",
+      "Transversal",
+      "Nol",
+      "Tasodifiy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 50,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE qaysi qarshilik komponenti bilan bog‘liq?",
+    "options": [
+      "ρxx",
+      "ρxy",
+      "ρzz",
+      "ρxz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 51,
+    "type": "SINGLE_CHOICE",
+    "question": "SHE qaysi qurilmalar uchun muhim?",
+    "options": [
+      "Termoelektrik",
+      "Spintronik xotira",
+      "Optik tolalar",
+      "Mexanik sensorlar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 52,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE magnitlanish qaysi yo‘nalishda bo‘lganda kuzatiladi?",
+    "options": [
+      "Tokga parallel",
+      "Namunaga perpendikulyar",
+      "Issiqlik oqimiga parallel",
+      "Farqi yo‘q"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 53,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE antisimmеtrik bo‘lishi nimani anglatadi?",
+    "options": [
+      "ρxy(M)=ρxy(−M)",
+      "ρxy(M)=−ρxy(−M)",
+      "ρxx=0",
+      "M=0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 54,
+    "type": "SINGLE_CHOICE",
+    "question": "SHE tajribaviy tasdiqlanishi nimani ko‘rsatdi?",
+    "options": [
+      "Tok yo‘qolishini",
+      "Spin oqimlar mavjudligini",
+      "Domen parchalanishini",
+      "Issiqlik ta’sirini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 55,
+    "type": "SINGLE_CHOICE",
+    "question": "Anomal tezlik qaysi omil bilan bog‘liq?",
+    "options": [
+      "Berry curvature",
+      "Harorat",
+      "Tok kuchi",
+      "Bosim"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE qachon magnit maydonsiz paydo bo‘ladi?",
+    "options": [
+      "Intrinsik mexanizmda",
+      "Oddiy Xoll effektida",
+      "AMRda",
+      "Termik rejimda"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "type": "SINGLE_CHOICE",
+    "question": "SHEda spinlar qanday ajraladi?",
+    "options": [
+      "Energiya bo‘yicha",
+      "Yon tomonlarga",
+      "Harorat bo‘yicha",
+      "Vaqt bo‘yicha"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 58,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin oqimi nimani anglatadi?",
+    "options": [
+      "Zaryad oqimini",
+      "Spin moment oqimini",
+      "Issiqlik oqimini",
+      "Magnon oqimini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 59,
+    "type": "SINGLE_CHOICE",
+    "question": "AHE qaysi effekt bilan tarixan bog‘liq?",
+    "options": [
+      "Thomson",
+      "Hall",
+      "Seebeck",
+      "Peltier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 60,
+    "type": "SINGLE_CHOICE",
+    "question": "SHE ning asosiy afzalligi nimada?",
+    "options": [
+      "Zaryadsiz spin oqimi hosil qilish",
+      "Qarshilikni kamaytirish",
+      "Issiqlikni oshirish",
+      "Domen hosil qilish"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "type": "FILL_BLANK",
+    "question": "Xoll effekti natijasida yon tomonlarda ______ hosil bo‘ladi.",
+    "correctText": "kuchlanish"
+  },
+  {
+    "id": 62,
+    "type": "FILL_BLANK",
+    "question": "Anomal Xoll effekti magnitlangan ______ da kuchli namoyon bo‘ladi.",
+    "correctText": "materiallarda"
+  },
+  {
+    "id": 63,
+    "type": "FILL_BLANK",
+    "question": "AHE formulasi ρxy = R0B + ______ M ko‘rinishida yoziladi.",
+    "correctText": "Rs"
+  },
+  {
+    "id": 64,
+    "type": "FILL_BLANK",
+    "question": "Skew scattering ______ sochilishdir.",
+    "correctText": "nosimmetrik"
+  },
+  {
+    "id": 65,
+    "type": "FILL_BLANK",
+    "question": "Side jump elektron trayektoriyasining ______ bilan bog‘liq.",
+    "correctText": "yon siljishi"
+  },
+  {
+    "id": 66,
+    "type": "FILL_BLANK",
+    "question": "Intrinsik AHE Berry ______ ga asoslanadi.",
+    "correctText": "egriligiga"
+  },
+  {
+    "id": 67,
+    "type": "FILL_BLANK",
+    "question": "Berry curvature impuls ______ da aniqlanadi.",
+    "correctText": "fazosi"
+  },
+  {
+    "id": 68,
+    "type": "FILL_BLANK",
+    "question": "Spin Xoll effektida ______ oqimi hosil bo‘ladi.",
+    "correctText": "spin"
+  },
+  {
+    "id": 69,
+    "type": "FILL_BLANK",
+    "question": "SHEda umumiy ______ ajralishi kuzatilmaydi.",
+    "correctText": "zaryad"
+  },
+  {
+    "id": 70,
+    "type": "FILL_BLANK",
+    "question": "AMR magnitlanish ______ ga sezgir.",
+    "correctText": "yo‘nalishiga"
+  },
+  {
+    "id": 71,
+    "type": "FILL_BLANK",
+    "question": "AHE antisimmеtrik ______ hisoblanadi.",
+    "correctText": "qarshilik"
+  },
+  {
+    "id": 72,
+    "type": "FILL_BLANK",
+    "question": "(Ga,Mn)As ferromagnit ______ hisoblanadi.",
+    "correctText": "yarimo‘tkazgich"
+  },
+  {
+    "id": 73,
+    "type": "FILL_BLANK",
+    "question": "Mott tarqalishi ______ spin–bog‘liq sochilishdir.",
+    "correctText": "relativistik"
+  },
+  {
+    "id": 74,
+    "type": "FILL_BLANK",
+    "question": "Dirak spintronika ______ effektlarga asoslanadi.",
+    "correctText": "relativistik"
+  },
+  {
+    "id": 75,
+    "type": "FILL_BLANK",
+    "question": "Anomal tezlik Berry ______ tufayli yuzaga keladi.",
+    "correctText": "curvature"
+  },
+  {
+    "id": 76,
+    "type": "FILL_BLANK",
+    "question": "SHE spintronik ______ yaratishda muhim.",
+    "correctText": "qurilmalar"
+  },
+  {
+    "id": 77,
+    "type": "FILL_BLANK",
+    "question": "AHE magnit ______ ni tahlil qilishda qo‘llaniladi.",
+    "correctText": "tartibni"
+  },
+  {
+    "id": 78,
+    "type": "FILL_BLANK",
+    "question": "SHE spin oqimini ______ imkonini beradi.",
+    "correctText": "boshqarish"
+  },
+  {
+    "id": 79,
+    "type": "FILL_BLANK",
+    "question": "AMR simmеtrik ______ turiga kiradi.",
+    "correctText": "magnitoqarshilik"
+  },
+  {
+    "id": 80,
+    "type": "FILL_BLANK",
+    "question": "AHE va SHE spin–______ bog‘lanish bilan bog‘liq.",
+    "correctText": "orbita"
+  },
+  {
+    "id": 81,
+    "type": "SHORT_ANSWER",
+    "question": "Xoll effekti nimani aniqlashga yordam beradi?",
+    "correctText": "zaryad tashuvchilar xossalarini"
+  },
+  {
+    "id": 82,
+    "type": "SHORT_ANSWER",
+    "question": "AHE nimasi bilan oddiy Xoll effektidan farq qiladi?",
+    "correctText": "magnitlanishga bog‘liqligi bilan"
+  },
+  {
+    "id": 83,
+    "type": "SHORT_ANSWER",
+    "question": "Skew scattering fizik ma’nosi nima?",
+    "correctText": "spin–orbita tufayli nosimmetrik sochilish"
+  },
+  {
+    "id": 84,
+    "type": "SHORT_ANSWER",
+    "question": "Side jump nimani anglatadi?",
+    "correctText": "elektronning yon tomonga siljishini"
+  },
+  {
+    "id": 85,
+    "type": "SHORT_ANSWER",
+    "question": "Intrinsik AHEning asosiy manbai nima?",
+    "correctText": "Berry egriligi"
+  },
+  {
+    "id": 86,
+    "type": "SHORT_ANSWER",
+    "question": "Berry curvature nimaga o‘xshatiladi?",
+    "correctText": "virtual magnit maydonga"
+  },
+  {
+    "id": 87,
+    "type": "SHORT_ANSWER",
+    "question": "Spin Xoll effekti qanday oqim hosil qiladi?",
+    "correctText": "zaryadsiz spin oqimini"
+  },
+  {
+    "id": 88,
+    "type": "SHORT_ANSWER",
+    "question": "AHE va SHE o‘rtasidagi umumiylik nimada?",
+    "correctText": "spin–orbita bog‘lanishda"
+  },
+  {
+    "id": 89,
+    "type": "SHORT_ANSWER",
+    "question": "(Ga,Mn)As nima uchun muhim?",
+    "correctText": "AHEni chuqur o‘rganish uchun"
+  },
+  {
+    "id": 90,
+    "type": "SHORT_ANSWER",
+    "question": "AHE qaysi qarshilik komponenti orqali o‘lchanadi?",
+    "correctText": "ko‘ndalang"
+  },
+  {
+    "id": 91,
+    "type": "SHORT_ANSWER",
+    "question": "AMR nimaga bog‘liq?",
+    "correctText": "magnitlanish yo‘nalishiga"
+  },
+  {
+    "id": 92,
+    "type": "SHORT_ANSWER",
+    "question": "Dirak spintronika nimani ifodalaydi?",
+    "correctText": "relativistik spin transportni"
+  },
+  {
+    "id": 93,
+    "type": "SHORT_ANSWER",
+    "question": "Mott tarqalishi nimaga asoslanadi?",
+    "correctText": "spin–bog‘liq nosimmetrik sochilishga"
+  },
+  {
+    "id": 94,
+    "type": "SHORT_ANSWER",
+    "question": "SHE tajribaviy kashfiyoti nimani isbotladi?",
+    "correctText": "spin oqimlar mavjudligini"
+  },
+  {
+    "id": 95,
+    "type": "SHORT_ANSWER",
+    "question": "AHE qaysi sohada keng qo‘llaniladi?",
+    "correctText": "spintronikada"
+  },
+  {
+    "id": 96,
+    "type": "SHORT_ANSWER",
+    "question": "Berry curvature elektronlarga qanday ta’sir qiladi?",
+    "correctText": "transversal og‘ish beradi"
+  },
+  {
+    "id": 97,
+    "type": "SHORT_ANSWER",
+    "question": "SHE memristorlar uchun nima beradi?",
+    "correctText": "spin asosli boshqaruv"
+  },
+  {
+    "id": 98,
+    "type": "SHORT_ANSWER",
+    "question": "AHE magnit maydonsiz qachon paydo bo‘ladi?",
+    "correctText": "intrinsik mexanizmda"
+  },
+  {
+    "id": 99,
+    "type": "SHORT_ANSWER",
+    "question": "AMR va AHE o‘rtasidagi asosiy farq nima?",
+    "correctText": "simmetriklik xossasi"
+  },
+  {
+    "id": 100,
+    "type": "SHORT_ANSWER",
+    "question": "Ushbu mavzuning asosiy ahamiyati nimada?",
+    "correctText": "spin-bog‘liq transportni tushuntirish"
+  }
+]

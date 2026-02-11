@@ -1,0 +1,933 @@
+[
+  {
+    "topicId": 6,
+    "questionId": 1,
+    "type": "TRUE_FALSE",
+    "questionText": "Magneto-optik spektroskopiya magnit yarimo‘tkazgichlarning spin xossalarini o‘rganishga imkon beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 2,
+    "type": "TRUE_FALSE",
+    "questionText": "(Ga,Mn)As materialida infraqizil yutilish metall–izolyator o‘tishiga oid ma’lumot beradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 3,
+    "type": "TRUE_FALSE",
+    "questionText": "ac o‘tkazuvchanlik dc o‘tkazuvchanlikdan mustaqil ravishda o‘zgaradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 4,
+    "type": "TRUE_FALSE",
+    "questionText": "Drude cho‘qqisi past chastotalarda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 5,
+    "type": "TRUE_FALSE",
+    "questionText": "Magneto-optik effektlar spin–orbita bog‘lanishiga sezgir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 6,
+    "type": "TRUE_FALSE",
+    "questionText": "MCB magnit doiraviy birefringensiyani bildiradi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 7,
+    "type": "TRUE_FALSE",
+    "questionText": "MCD magnit doiraviy dikroizmning haqiqiy qismi bilan aniqlanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 8,
+    "type": "TRUE_FALSE",
+    "questionText": "MLB tekislikdagi magnitlanish komponentiga sezgir.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 9,
+    "type": "TRUE_FALSE",
+    "questionText": "MLD magnitlanishning mavhum optik hissasi bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 10,
+    "type": "TRUE_FALSE",
+    "questionText": "Kerr effekti qaytgan yorug‘likda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 11,
+    "type": "TRUE_FALSE",
+    "questionText": "Faraday effekti o‘tkazilgan yorug‘likda kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 12,
+    "type": "TRUE_FALSE",
+    "questionText": "Kerr aylanishi yorug‘lik qutblanishiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 13,
+    "type": "TRUE_FALSE",
+    "questionText": "MLB/MLD aylanishi yorug‘lik qutblanish burchagiga bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 14,
+    "type": "TRUE_FALSE",
+    "questionText": "Magneto-optik effektlar AMR ning chastotali analoglari hisoblanadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 15,
+    "type": "TRUE_FALSE",
+    "questionText": "Nasos–zond tajribasi ultratezkor spin dinamikasini o‘lchaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 16,
+    "type": "TRUE_FALSE",
+    "questionText": "Femtosekundli lazerlar spin pretsessiyasini qo‘zg‘atishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 17,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle effekti spin akkumulatsiyasining magnit maydonga bog‘liqligini ifodalaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 18,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle effektida magnit maydon spin yo‘nalishiga parallel bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 19,
+    "type": "TRUE_FALSE",
+    "questionText": "Kuchsiz magnit maydonlarda spin signali kamayadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 20,
+    "type": "TRUE_FALSE",
+    "questionText": "Katta magnit maydonlarda spin tebranishlari kuzatiladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 21,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle effektida spin diffuziyasi muhim rol o‘ynaydi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 22,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin drift uzunligi Ld = vd · τs ga teng.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 23,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin diffuziya uzunligi Ls har doim Ld dan katta bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "Noto‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 24,
+    "type": "TRUE_FALSE",
+    "questionText": "Drift ustun bo‘lgan rejimda κ ≫ 1 bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 25,
+    "type": "TRUE_FALSE",
+    "questionText": "Diffuziya ustun bo‘lgan rejimda κ ≪ 1 bo‘ladi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 26,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle tebranishlari spin relaksatsiyasi tufayli so‘nadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 27,
+    "type": "TRUE_FALSE",
+    "questionText": "Larmor chastotasi magnit maydonga proporsional.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 28,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-LEDlarda yorug‘lik qutblanishi spin bilan bog‘liq.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 29,
+    "type": "TRUE_FALSE",
+    "questionText": "Spin-LEDlar spin injeksiyasini optik usulda ko‘rsatadi.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "topicId": 6,
+    "questionId": 30,
+    "type": "TRUE_FALSE",
+    "questionText": "Hanle effekti orqali g-faktor aniqlanishi mumkin.",
+    "options": [
+      "To‘g‘ri",
+      "Noto‘g‘ri"
+    ],
+    "correctAnswer": "To‘g‘ri"
+  },
+  {
+    "id": 31,
+    "type": "SINGLE_CHOICE",
+    "question": "Magneto-optik spektroskopiya nimani o‘rganadi?",
+    "options": [
+      "Issiqlik sig‘imi",
+      "Spin va magnitlanish xossalarini",
+      "Mexanik kuchlanishni",
+      "Kristall nuqsonlarni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "type": "SINGLE_CHOICE",
+    "question": "Drude modeli nimani tavsiflaydi?",
+    "options": [
+      "Optik fononlarni",
+      "Erkin tashuvchilarni",
+      "Magnonlarni",
+      "Eksitonlarni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "type": "SINGLE_CHOICE",
+    "question": "(Ga,Mn)As dagi infraqizil yutilish nimani ko‘rsatadi?",
+    "options": [
+      "Supero‘tkazuvchanlikni",
+      "Metall–izolyator o‘tishini",
+      "Fazaviy o‘tishni",
+      "Issiqlik effektini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "type": "SINGLE_CHOICE",
+    "question": "MCB nimani bildiradi?",
+    "options": [
+      "Chiziqli dikroizm",
+      "Doiraviy birefringensiya",
+      "Chiziqli birefringensiya",
+      "Spin oqimi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "type": "SINGLE_CHOICE",
+    "question": "MCD qaysi kattalik bilan bog‘liq?",
+    "options": [
+      "Sinish ko‘rsatkichining mavhum qismi",
+      "Haqiqiy qismi",
+      "Tok kuchi",
+      "Harorat"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "type": "SINGLE_CHOICE",
+    "question": "MLB nimaga sezgir?",
+    "options": [
+      "Sirtga perpendikulyar magnitlanishga",
+      "Tekislikdagi magnitlanishga",
+      "Tok yo‘nalishiga",
+      "Issiqlikka"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "type": "SINGLE_CHOICE",
+    "question": "Kerr effekti qayerda kuzatiladi?",
+    "options": [
+      "O‘tkazishda",
+      "Qaytishda",
+      "Yutilishda",
+      "Diffuziyada"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "type": "SINGLE_CHOICE",
+    "question": "Faraday effekti qayerda kuzatiladi?",
+    "options": [
+      "Qaytishda",
+      "Sochilishda",
+      "O‘tkazishda",
+      "Absorbtsiyada"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "type": "SINGLE_CHOICE",
+    "question": "Nasos–zond tajribasi nimani o‘lchaydi?",
+    "options": [
+      "Statik magnitlanishni",
+      "Vaqt bo‘yicha spin dinamikasini",
+      "Elektr qarshilikni",
+      "Issiqlik tarqalishini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "type": "SINGLE_CHOICE",
+    "question": "Hanle effektida magnit maydon qaysi yo‘nalishda bo‘ladi?",
+    "options": [
+      "Spin bilan parallel",
+      "Spinga perpendikulyar",
+      "Tok bilan parallel",
+      "Ixtiyoriy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "type": "SINGLE_CHOICE",
+    "question": "Hanle effektida spin signali nimaga bog‘liq?",
+    "options": [
+      "Haroratga",
+      "Magnit maydonga",
+      "Bosimga",
+      "Kristall panjaraga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin pretsessiyasi qaysi chastota bilan aniqlanadi?",
+    "options": [
+      "Debay",
+      "Drude",
+      "Larmor",
+      "Fermi"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 43,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin drift uzunligi nimani bildiradi?",
+    "options": [
+      "Spin tarqalish tezligini",
+      "Spin xotira masofasini",
+      "Tok yo‘nalishini",
+      "Domen o‘lchamini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "type": "SINGLE_CHOICE",
+    "question": "κ parametri nimani bildiradi?",
+    "options": [
+      "Diffuziya/relaksatsiya nisbatini",
+      "Drift/diffuziya nisbatini",
+      "Spin/zaryad nisbatini",
+      "Harorat omilini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "type": "SINGLE_CHOICE",
+    "question": "Diffuziya ustun bo‘lgan rejim qaysi shartda?",
+    "options": [
+      "κ ≫ 1",
+      "κ ≪ 1",
+      "κ = 1",
+      "κ = 0"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin relaksatsiya vaqti qaysi bilan belgilanadi?",
+    "options": [
+      "τs",
+      "ω0",
+      "Ld",
+      "κ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "type": "SINGLE_CHOICE",
+    "question": "Larmor chastotasi nimaga bog‘liq?",
+    "options": [
+      "Spin konsentratsiyasiga",
+      "Magnit maydonga",
+      "Haroratga",
+      "Drift tezligiga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin-LEDda qaysi effekt kuzatiladi?",
+    "options": [
+      "Yorug‘lik intensivligi kamayishi",
+      "Yorug‘lik qutblanishi",
+      "Qarshilik ortishi",
+      "Issiqlik chiqishi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin-LED nimani isbotlaydi?",
+    "options": [
+      "Issiqlik o‘tishini",
+      "Spin injeksiyasini",
+      "Supero‘tkazuvchanlikni",
+      "Domen hosil bo‘lishini"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "type": "SINGLE_CHOICE",
+    "question": "Hanle effektidan qaysi parametr aniqlanadi?",
+    "options": [
+      "Kristall panjara",
+      "g-faktor",
+      "Donor energiyasi",
+      "Fermi energiyasi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin diffuziya uzunligi qaysi bilan belgilanadi?",
+    "options": [
+      "Ls",
+      "Ld",
+      "ω0",
+      "κ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "type": "SINGLE_CHOICE",
+    "question": "Drift tezligi qanday belgilanadi?",
+    "options": [
+      "vd",
+      "vs",
+      "vF",
+      "vL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "type": "SINGLE_CHOICE",
+    "question": "Hanle effektida spin signali katta maydonda nega yo‘qoladi?",
+    "options": [
+      "Tok kamaygani uchun",
+      "Pretsessiya fazalari yo‘qolgani uchun",
+      "Harorat oshgani uchun",
+      "Domenlar yo‘qolgani uchun"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "type": "SINGLE_CHOICE",
+    "question": "Pump–probe tajribasida qaysi impuls avval keladi?",
+    "options": [
+      "Zond",
+      "Nasos",
+      "Ikkalasi bir vaqtda",
+      "Farqi yo‘q"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 55,
+    "type": "SINGLE_CHOICE",
+    "question": "Magneto-optik aylanish nimaga bog‘liq bo‘lishi mumkin?",
+    "options": [
+      "Yorug‘lik qutblanishiga",
+      "Magnitlanish yo‘nalishiga",
+      "Har ikkala omilga",
+      "Hech qaysisiga"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin pretsessiyasi qaysi hodisa bilan bog‘liq?",
+    "options": [
+      "Lorens kuchi",
+      "Larmor momenti",
+      "Elektr qarshilik",
+      "Issiqlik tarqalishi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 57,
+    "type": "SINGLE_CHOICE",
+    "question": "3.2-mavzuning asosiy obyekti nima?",
+    "options": [
+      "Zaryad transporti",
+      "Spin va optik hodisalar",
+      "Faqat fononlar",
+      "Mexanik effektlar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "type": "SINGLE_CHOICE",
+    "question": "Spin drift va spin diffuziya o‘rtasidagi asosiy farq nimada?",
+    "options": [
+      "Harorat ta’sirida",
+      "Elektr maydon mavjudligida",
+      "Magnit maydon yo‘nalishida",
+      "Kristall panjarasida"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "type": "SINGLE_CHOICE",
+    "question": "Diffuziya ustun Hanle effekti qaysi materiallarda ko‘proq kuzatiladi?",
+    "options": [
+      "Kuchli legirlangan materiallarda",
+      "Toza yarimo‘tkazgichlarda",
+      "Dielektriklarda",
+      "Metallarda"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "type": "SINGLE_CHOICE",
+    "question": "Drift ustun Hanle effekti qayerda kuzatiladi?",
+    "options": [
+      "Kuchli legirlangan materiallarda",
+      "Toza yarimo‘tkazgichlarda",
+      "Amorf moddalarda",
+      "Suyuqliklarda"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "type": "FILL_BLANK",
+    "question": "Magneto-optik spektroskopiya ______ xossalarni o‘rganadi.",
+    "correctText": "spin"
+  },
+  {
+    "id": 62,
+    "type": "FILL_BLANK",
+    "question": "Drude cho‘qqisi ______ chastotalarda kuzatiladi.",
+    "correctText": "past"
+  },
+  {
+    "id": 63,
+    "type": "FILL_BLANK",
+    "question": "MCB magnit ______ birefringensiyadir.",
+    "correctText": "doiraviy"
+  },
+  {
+    "id": 64,
+    "type": "FILL_BLANK",
+    "question": "MCD sinish ko‘rsatkichining ______ qismi bilan bog‘liq.",
+    "correctText": "mavhum"
+  },
+  {
+    "id": 65,
+    "type": "FILL_BLANK",
+    "question": "MLB magnit ______ birefringensiyadir.",
+    "correctText": "chiziqli"
+  },
+  {
+    "id": 66,
+    "type": "FILL_BLANK",
+    "question": "Kerr effekti ______ yorug‘likda kuzatiladi.",
+    "correctText": "qaytgan"
+  },
+  {
+    "id": 67,
+    "type": "FILL_BLANK",
+    "question": "Faraday effekti ______ yorug‘likda kuzatiladi.",
+    "correctText": "o‘tkazilgan"
+  },
+  {
+    "id": 68,
+    "type": "FILL_BLANK",
+    "question": "Nasos–zond tajribasi ______ vaqt masshtabida ishlaydi.",
+    "correctText": "ultratezkor"
+  },
+  {
+    "id": 69,
+    "type": "FILL_BLANK",
+    "question": "Hanle effekti spin ______ ning magnit maydonga bog‘liqligini ifodalaydi.",
+    "correctText": "akkumulatsiyasining"
+  },
+  {
+    "id": 70,
+    "type": "FILL_BLANK",
+    "question": "Larmor chastotasi ______ maydonga proporsional.",
+    "correctText": "magnit"
+  },
+  {
+    "id": 71,
+    "type": "FILL_BLANK",
+    "question": "Spin drift uzunligi Ld = ______ · τs formula bilan aniqlanadi.",
+    "correctText": "vd"
+  },
+  {
+    "id": 72,
+    "type": "FILL_BLANK",
+    "question": "Diffuziya ustun bo‘lgan rejimda κ ______ bo‘ladi.",
+    "correctText": "kichik"
+  },
+  {
+    "id": 73,
+    "type": "FILL_BLANK",
+    "question": "Drift ustun bo‘lgan rejimda κ ______ bo‘ladi.",
+    "correctText": "katta"
+  },
+  {
+    "id": 74,
+    "type": "FILL_BLANK",
+    "question": "Hanle tebranishlari spin ______ tufayli yuzaga keladi.",
+    "correctText": "pretsessiyasi"
+  },
+  {
+    "id": 75,
+    "type": "FILL_BLANK",
+    "question": "Spin relaksatsiya vaqti ______ bilan belgilanadi.",
+    "correctText": "τs"
+  },
+  {
+    "id": 76,
+    "type": "FILL_BLANK",
+    "question": "Spin-LEDlarda chiqarilgan yorug‘lik ______ bo‘ladi.",
+    "correctText": "qutblangan"
+  },
+  {
+    "id": 77,
+    "type": "FILL_BLANK",
+    "question": "Spin akkumulatsiyasi spinlarning ______ ni bildiradi.",
+    "correctText": "to‘planishini"
+  },
+  {
+    "id": 78,
+    "type": "FILL_BLANK",
+    "question": "Magneto-optik aylanish magnitlanish ______ ga bog‘liq bo‘lishi mumkin.",
+    "correctText": "yo‘nalishiga"
+  },
+  {
+    "id": 79,
+    "type": "FILL_BLANK",
+    "question": "Hanle effekti spin ______ ni aniqlashda ishlatiladi.",
+    "correctText": "umrini"
+  },
+  {
+    "id": 80,
+    "type": "FILL_BLANK",
+    "question": "g-faktor Hanle egri chizig‘idan ______ mumkin.",
+    "correctText": "aniqlanishi"
+  },
+  {
+    "id": 81,
+    "type": "SHORT_ANSWER",
+    "question": "Magneto-optik effektlarning ahamiyati nimada?",
+    "answer": "spin va magnitlanishni optik aniqlashda"
+  },
+  {
+    "id": 82,
+    "type": "SHORT_ANSWER",
+    "question": "Drude modeli nimani tushuntiradi?",
+    "answer": "erkin tashuvchilar o‘tkazuvchanligini"
+  },
+  {
+    "id": 83,
+    "type": "SHORT_ANSWER",
+    "question": "Kerr va Faraday effektlarining farqi nimada?",
+    "answer": "qaytish va o‘tkazishda kuzatilishida"
+  },
+  {
+    "id": 84,
+    "type": "SHORT_ANSWER",
+    "question": "MCB va MCD o‘rtasidagi asosiy farq nima?",
+    "answer": "haqiqiy va mavhum qismlarga bog‘liqligi"
+  },
+  {
+    "id": 85,
+    "type": "SHORT_ANSWER",
+    "question": "Nasos–zond tajribasi nimani ko‘rsatadi?",
+    "answer": "spin dinamikasini"
+  },
+  {
+    "id": 86,
+    "type": "SHORT_ANSWER",
+    "question": "Hanle effekti nimani o‘lchaydi?",
+    "answer": "spin relaksatsiya va pretsessiyasini"
+  },
+  {
+    "id": 87,
+    "type": "SHORT_ANSWER",
+    "question": "Hanle egri chizig‘i nimaga bog‘liq?",
+    "answer": "magnit maydonga"
+  },
+  {
+    "id": 88,
+    "type": "SHORT_ANSWER",
+    "question": "Spin drift va spin diffuziya o‘rtasidagi farq nima?",
+    "answer": "elektr maydon ta’siri"
+  },
+  {
+    "id": 89,
+    "type": "SHORT_ANSWER",
+    "question": "Diffuziya ustun Hanle effekti qayerda kuzatiladi?",
+    "answer": "kuchli legirlangan materiallarda"
+  },
+  {
+    "id": 90,
+    "type": "SHORT_ANSWER",
+    "question": "Drift ustun Hanle effekti qayerda kuzatiladi?",
+    "answer": "toza yarimo‘tkazgichlarda"
+  },
+  {
+    "id": 91,
+    "type": "SHORT_ANSWER",
+    "question": "Larmor chastotasining fizik ma’nosi nima?",
+    "answer": "spin pretsessiya tezligi"
+  },
+  {
+    "id": 92,
+    "type": "SHORT_ANSWER",
+    "question": "Spin relaksatsiya vaqti nimani bildiradi?",
+    "answer": "spin xotira davomiyligini"
+  },
+  {
+    "id": 93,
+    "type": "SHORT_ANSWER",
+    "question": "Spin-LED nima uchun muhim?",
+    "answer": "spin injeksiyasini ko‘rsatgani uchun"
+  },
+  {
+    "id": 94,
+    "type": "SHORT_ANSWER",
+    "question": "Magneto-optik aylanish nimani ifodalaydi?",
+    "answer": "spin va magnitlanish ta’sirini"
+  },
+  {
+    "id": 95,
+    "type": "SHORT_ANSWER",
+    "question": "Hanle tebranishlari qachon yo‘qoladi?",
+    "answer": "katta magnit maydonlarda"
+  },
+  {
+    "id": 96,
+    "type": "SHORT_ANSWER",
+    "question": "κ parametrining fizik ma’nosi nima?",
+    "answer": "drift va diffuziya nisbatini"
+  },
+  {
+    "id": 97,
+    "type": "SHORT_ANSWER",
+    "question": "Spin akkumulatsiyasi qayerda hosil bo‘ladi?",
+    "answer": "injeksiya yaqinida"
+  },
+  {
+    "id": 98,
+    "type": "SHORT_ANSWER",
+    "question": "Hanle effektidan qaysi parametrlar olinadi?",
+    "answer": "τs va g-faktor"
+  },
+  {
+    "id": 99,
+    "type": "SHORT_ANSWER",
+    "question": "Spin pretsessiyasi qaysi kuch bilan bog‘liq?",
+    "answer": "magnit moment bilan"
+  },
+  {
+    "id": 100,
+    "type": "SHORT_ANSWER",
+    "question": "Ushbu mavzuning umumiy ahamiyati nimada?",
+    "answer": "spin–optik hodisalarni tushuntirishda"
+  }
+]
+
