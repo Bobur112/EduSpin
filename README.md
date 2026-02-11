@@ -37,4 +37,18 @@ EduSpin is a modern Android quiz application focused on:
 
 ## 📦 Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Bobur112/EduSpin.git
+
+2. Open in Android Studio
+3. Add your own OpenAI API key in `local.properties`
+
+---
+
+## 👨‍💻 Author
+
+**Bobur**
+
+---
+
+⭐ If you like this project, give it a star!
+
