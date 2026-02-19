@@ -5,3 +5,5 @@
 /app/build
 *.apk
 *.iml
+*.jks
+*.keystore
