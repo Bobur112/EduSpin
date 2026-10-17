@@ -245,11 +245,11 @@ public class TestActivity extends AppCompatActivity {
 
     // ================= CORRECT ANSWER =================
     private String getCorrectAnswerForReview(Question q) {
+        if (q == null) return "";
+
         Log.d("ANS_DEBUG",
                 "options=" + q.getOptions() +
                         " correct=" + q.getCorrectAnswers());
-
-        if (q == null) return "";
 
         switch (q.getType()) {
 

@@ -18,28 +18,23 @@ import java.util.Set;
 
 public class SuggestionsActivity extends AppCompatActivity {
 
-    // ⚠️ O'ZINGNIKIGA ALMASHTIR
-    private static final String BOT_TOKEN = "8415186910:AAHCdiII_wnLdUboQG9sii7U5U0WSnJtTjo";
-    private static final String CHAT_ID = "444371835";
-
-//    8541123379:AAFAeWoSw2UevK79JDpFizASCgonr4eRyn0 - mening tokenim
-//    6076473883 - mening idim
-
-//    8415186910:AAHCdiII_wnLdUboQG9sii7U5U0WSnJtTjo - nonoshim tokeni
-//    444371835 - nonoshimniki
+    // Tokenlar local.properties dan BuildConfig orqali o'qiladi (APK ichiga tushadi, lekin
+    // version control ga chiqmaydi — bu minimal xavfsizlik darajasi)
+    private static final String BOT_TOKEN = BuildConfig.TELEGRAM_BOT_TOKEN;
+    private static final String CHAT_ID   = BuildConfig.TELEGRAM_CHAT_ID;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_suggestions);
 
-        EditText etFullName = findViewById(R.id.etFullName);
+        EditText etFullName   = findViewById(R.id.etFullName);
         EditText etSuggestion = findViewById(R.id.etSuggestion);
-        Button btnSend = findViewById(R.id.btnSend);
+        Button   btnSend      = findViewById(R.id.btnSend);
 
         btnSend.setOnClickListener(view -> {
 
-            String fullName = etFullName.getText().toString().trim();
+            String fullName   = etFullName.getText().toString().trim();
             String suggestion = etSuggestion.getText().toString().trim();
 
             if (fullName.isEmpty()) {
@@ -52,21 +47,16 @@ public class SuggestionsActivity extends AppCompatActivity {
                 return;
             }
 
-            // 1️⃣ TELEGRAMGA YUBORILADIGAN XABAR
             String telegramMessage =
                     "📩 Yangi taklif\n\n" +
-                            "👤 Ism-sharif: " + fullName + "\n" +
-                            "🕒 Sana: " + DateFormat.getDateTimeInstance().format(new Date()) + "\n\n" +
-                            "💡 Taklif:\n" + suggestion;
+                    "👤 Ism-sharif: " + fullName + "\n" +
+                    "🕒 Sana: " + DateFormat.getDateTimeInstance().format(new Date()) + "\n\n" +
+                    "💡 Taklif:\n" + suggestion;
 
-            // 2️⃣ TELEGRAMGA YUBORISH
             sendToTelegram(telegramMessage);
-
-            // 3️⃣ TELEFONGA SAQLASH
             saveSuggestionLocally(fullName, suggestion);
 
             Toast.makeText(this, "Taklif yuborildi va saqlandi ✅", Toast.LENGTH_SHORT).show();
-
             etSuggestion.setText("");
         });
     }
@@ -79,8 +69,8 @@ public class SuggestionsActivity extends AppCompatActivity {
 
                 String urlString =
                         "https://api.telegram.org/bot" + BOT_TOKEN +
-                                "/sendMessage?chat_id=" + CHAT_ID +
-                                "&text=" + encodedText;
+                        "/sendMessage?chat_id=" + CHAT_ID +
+                        "&text=" + encodedText;
 
                 URL url = new URL(urlString);
                 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
@@ -106,21 +96,18 @@ public class SuggestionsActivity extends AppCompatActivity {
         }).start();
     }
 
-
     // ===================== LOCAL SAQLASH =====================
     private void saveSuggestionLocally(String fullName, String suggestion) {
         SharedPreferences prefs = getSharedPreferences("suggestions", MODE_PRIVATE);
 
-        Set<String> list =
-                new HashSet<>(prefs.getStringSet("list", new HashSet<>()));
+        Set<String> list = new HashSet<>(prefs.getStringSet("list", new HashSet<>()));
 
         String record =
                 "👤 " + fullName + "\n" +
-                        "🕒 " + DateFormat.getDateTimeInstance().format(new Date()) + "\n" +
-                        "💡 " + suggestion;
+                "🕒 " + DateFormat.getDateTimeInstance().format(new Date()) + "\n" +
+                "💡 " + suggestion;
 
         list.add(record);
-
         prefs.edit().putStringSet("list", list).apply();
     }
 }

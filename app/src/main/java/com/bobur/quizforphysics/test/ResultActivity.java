@@ -11,7 +11,6 @@ import android.widget.Toast;
 
 import com.bobur.quizforphysics.MainActivity;
 import com.bobur.quizforphysics.R;
-import com.bobur.quizforphysics.other.HistoryManager;
 import com.bobur.quizforphysics.other.TopicsTestActivity;
 import com.bobur.quizforphysics.test.model.ReviewItem;
 
@@ -63,9 +62,6 @@ public class ResultActivity extends AppCompatActivity {
             int nextId = topicId + 1;
             prefs.edit().putBoolean("topic_unlocked_" + nextId, true).apply();
         }
-
-        // 🔹 Tarixga saqlash (sizdagi eski logika qoladi)
-        HistoryManager.addHistory(this, topicName, score, total);
 
         // 🔹 Retry
         btnRetry.setOnClickListener(v -> {

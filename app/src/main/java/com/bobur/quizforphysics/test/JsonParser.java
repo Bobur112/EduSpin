@@ -37,8 +37,12 @@ public class JsonParser {
                 correctBool = (Boolean) correctObj;
             }
             else if (correctObj instanceof String) {
-                String s = ((String) correctObj).toLowerCase();
-                correctBool = s.contains("to") || s.contains("true");
+                String s = ((String) correctObj).trim().toLowerCase();
+                // "to'g'ri" yoki "true" bo'lsa true, qolganlar false
+                correctBool = s.equals("to’g’ri")
+                        || s.equals("to'g'ri")
+                        || s.equals("togri")
+                        || s.equals("true");
             }
 
             // UI bilan mos bo‘lsin

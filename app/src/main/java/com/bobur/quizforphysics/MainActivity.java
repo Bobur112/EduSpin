@@ -4,11 +4,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 
+import com.bobur.quizforphysics.history.HistoryStorage;
 import com.bobur.quizforphysics.history.SolvedTestCache;
-import com.bobur.quizforphysics.other.TopicsTestActivity;
 import com.bobur.quizforphysics.other.HistoryActivity;
+import com.bobur.quizforphysics.other.TopicsTestActivity;
 import com.bobur.quizforphysics.other.VideoListActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -16,41 +18,43 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         setContentView(R.layout.activity_main);
 
-        CardView cvStartQuiz = findViewById(R.id.cvTopicsTest);
-        CardView cvRule = findViewById(R.id.cvRule);
-        CardView cvHistory = findViewById(R.id.cvHistory);
-        CardView cvReferences = findViewById(R.id.cvEditPassword); // eski ID
-        CardView cvSuggestions = findViewById(R.id.cvLogout);     // eski ID
-        CardView cvVideos = findViewById(R.id.cvVideos);
-
-        cvStartQuiz.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, TopicsTestActivity.class))
-        );
-// ✅ Tarixni qayta yuklash (app qayta ochilganda ham tarix qolsin)
+        // Tarixni ilovani ochganda yuklab olamiz
         SolvedTestCache.getInstance().setAll(
-                com.bobur.quizforphysics.history.HistoryStorage.load(getApplicationContext())
+                HistoryStorage.load(getApplicationContext())
         );
 
-        cvVideos.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, VideoListActivity.class))
+        CardView cvStartQuiz    = findViewById(R.id.cvTopicsTest);
+        CardView cvRule         = findViewById(R.id.cvRule);
+        CardView cvHistory      = findViewById(R.id.cvHistory);
+        CardView cvReferences   = findViewById(R.id.cvReferences);
+        CardView cvSuggestions  = findViewById(R.id.cvSuggestions);
+        CardView cvVideos       = findViewById(R.id.cvVideos);
+
+        cvStartQuiz.setOnClickListener(v ->
+                startActivity(new Intent(this, TopicsTestActivity.class))
         );
 
-        cvRule.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, RuleActivity.class))
+        cvVideos.setOnClickListener(v ->
+                startActivity(new Intent(this, VideoListActivity.class))
         );
 
-        cvHistory.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, HistoryActivity.class))
+        cvRule.setOnClickListener(v ->
+                startActivity(new Intent(this, RuleActivity.class))
         );
 
-        cvReferences.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, ReferencesActivity.class))
+        cvHistory.setOnClickListener(v ->
+                startActivity(new Intent(this, HistoryActivity.class))
         );
 
-        cvSuggestions.setOnClickListener(view ->
-                startActivity(new Intent(MainActivity.this, SuggestionsActivity.class))
+        cvReferences.setOnClickListener(v ->
+                startActivity(new Intent(this, ReferencesActivity.class))
+        );
+
+        cvSuggestions.setOnClickListener(v ->
+                startActivity(new Intent(this, SuggestionsActivity.class))
         );
     }
 }
