@@ -53,7 +53,7 @@ EduSpin is a modern Android quiz application focused on:
 ⭐ If you like this project, give it a star!
 ## 📲 Download APK
 
-Scan the QR code below to download EduSpin:
+Scan the QR code below to open the latest EduSpin release (or go to the [Releases page](https://github.com/Bobur112/EduSpin/releases/latest)) and download the APK:
 
 ![EduSpin QR](assets/qrcode.png)
 
